@@ -1,0 +1,3264 @@
+id,is_disaster,disaster_type,disaster_severity,Resources/Help Type needed,location_mentioned,severity_score
+0,True,Car Crash,Severe,Medical,Unknown,4
+2,True,Earthquake,Mild,None,Different cities,3
+3,True,Fire,Moderate,None,spot pond,3
+9,True,Wildfire,Moderate,None,Spokane,3
+11,True,Typhoon,Severe,Medical,China and Taiwan,5
+12,True,Earthquake,Mild,None,Unknown,3
+21,False,None,None,None,Unknown,0
+22,False,None,None,None,Unknown,0
+27,False,None,None,None,Unknown,0
+29,False,None,None,None,Unknown,0
+30,False,None,None,None,Unknown,0
+35,False,None,None,None,Unknown,0
+42,False,None,None,None,Unknown,0
+43,False,None,None,None,Unknown,0
+45,False,None,None,None,Unknown,0
+46,True,Fire,Moderate,Firefighting,"Birmingham Wholesale Market, London",3
+47,False,None,None,None,Niall's place | SAF 12 SQUAD |,0
+51,False,None,None,None,NIGERIA,0
+58,False,None,None,None,Live On Webcam,0
+60,False,None,None,None,"Los Angeles, Califnordia",0
+69,False,None,None,None,threeonefive.,0
+70,False,None,None,None,Washington State,0
+72,False,None,None,None,"Whoop Ass, Georgia",0
+75,True,Fire,Severe,Medical,India,5
+84,False,None,None,None,Unknown,0
+87,True,Fire,Mild,Firefighting,"scarborough, ontario",2
+88,False,None,None,None,Unknown,0
+90,False,None,None,None,"121 N La Salle St, Suite 500",0
+94,False,None,None,None,Wandering,0
+99,True,Car Crash,Mild,Medical,"PaTurnpike, Homewood, PA",3
+101,False,None,None,None,Unknown,0
+103,False,None,None,None,Unknown,0
+106,False,None,None,None,USA,0
+108,False,None,None,None,Massachusetts,0
+111,True,Car Crash,Mild,Medical,"A27 near Lewes, Bexhill",3
+115,False,None,None,None,Anime World,0
+116,False,None,None,Legal,Unknown,0
+122,False,None,None,None,"Cowtown, Caliii !!",0
+123,False,None,None,None,Unknown,0
+124,True,Car Crash,Mild,Medical,"M42, UK",3
+125,False,None,None,None,"Frankfurt, Germany",0
+127,True,Car Crash,Mild,Police,"500 BLOCK OF SE VISTA TER GRESHAM OR, Gresham, OR",3
+140,False,None,None,None,Unknown,0
+142,True,Accident,Severe,"Medical, Financial",Las Vegas,5
+147,False,None,None,None,"Midland, Mi",0
+148,False,None,None,None,"SÌ£o Vicente, SÌ£o Paulo",0
+150,False,None,None,None,"Vault 101, Fallout",0
+152,False,None,None,None,Switzerland,0
+154,True,Earthquake,Moderate,Medical,"Nepal, California",4
+155,False,None,None,None,Europe,0
+166,False,None,None,None,304,0
+167,False,None,None,None,"Davis, CA",0
+169,False,None,None,None,"Detroit, MI, Hiroshima",0
+177,False,None,None,None,Switzerland,0
+179,False,None,None,None,Unknown,0
+181,False,None,None,None,304,0
+186,False,None,None,None,United Kingdom,0
+188,False,None,None,None,"London, England",0
+189,False,None,None,None,In your hearts and minds,0
+192,False,None,None,None,Runcorn,0
+200,True,Airplane Accident,Moderate,Legal,"Lake Charles, LA",3
+202,True,Airplane Accident,Mild,None,"California, USA",3
+206,True,Airplane Accident,Severe,None,Unknown,4
+207,True,Airplane Accident,Mild,None,Chofu airport,3
+214,True,Airplane Accident,Severe,None,"Ocampo Coahuila MX, Eagle Pass, Texas",4
+217,True,Airplane Accident,Severe,None,Unknown,4
+223,False,None,None,None,inland empire ca,0
+224,True,Airplane Accident,Severe,None,Muscat,4
+227,True,Airplane Accident,Moderate,None,Penn Twp.,3
+228,True,Airplane Accident,Moderate,Legal,"JFK Airport, New York",3
+230,False,None,None,None,#BlackLivesMatter,0
+233,False,None,None,None,USA - Global Online Sales,0
+234,True,Airplane Accident,Moderate,Investigation,Reunion Island,3
+236,True,Airplane Accident,Moderate,Investigation,Reunion Island,3
+239,True,Airplane Accident,Moderate,Investigation,"France, Reunion Island",3
+250,True,Helicopter Crash,Severe,Medical,"Pakistan, Istanbul, TÌ_rkiye",5
+255,False,None,None,Medical,High in Prague with Aya,0
+257,False,None,None,None,Happily Married with 2 kids,0
+259,False,None,None,None,born on september 1st,0
+275,True,Accident,Severe,Legal,"Atlanta, GA",5
+278,False,None,None,None,USA,0
+282,False,None,None,Medical,Worldwide,0
+284,False,None,None,Medical,everywhere,0
+286,False,None,None,Police,World,0
+288,True,Helicopter Crash,Severe,Medical,Pakistan,5
+292,False,None,None,Financial,"West Chester, PA",0
+295,False,None,None,None,"Chorley, Lancashire, UK",0
+300,False,None,None,None,Unknown,0
+304,True,Accident,Moderate,Medical,San Diego,3
+305,True,Accident,Moderate,Medical,New Orleans,3
+306,False,None,None,None,"eileenborut,webster, tx, Israel",0
+308,False,None,None,None,Unknown,0
+311,False,None,None,None,Unknown,0
+317,False,None,None,Medical,Unknown,0
+319,False,None,None,None,Unknown,0
+323,False,None,None,None,Unknown,0
+324,False,None,None,None,Unknown,0
+325,False,None,None,None,upstate NY,0
+326,True,War,Severe,None,Carso Plateau,5
+333,False,None,None,None,Unknown,0
+339,False,None,None,None,Unknown,0
+342,False,None,None,None,"Salem, MA",0
+343,False,None,None,None,"Chicago, Illinois",0
+350,False,None,None,None,SaltRiverWildHorses,0
+351,False,None,None,None,German,0
+357,False,None,None,None,Arizona,0
+359,False,None,None,None,Colorado,0
+362,False,None,None,None,United States,0
+366,False,None,None,None,High Desert,0
+367,False,None,None,None,"Plovdiv, Bulgaria",0
+369,False,None,None,None,California,0
+373,False,None,None,None,"Rhode Island, USA",0
+374,False,None,None,None,SaltRiverWildHorses,0
+376,False,None,None,None,Unknown,0
+377,False,None,None,None,U.S.A.,0
+378,False,None,None,None,Arizona,0
+379,False,None,None,None,"Wayne, NJ",0
+382,False,None,None,None,Chicago,0
+385,False,None,None,None,SaltRiverWildHorses,0
+387,False,None,None,None,SaltRiverWildHorses,0
+388,False,None,None,None,Az,0
+391,False,None,None,None,"Wheeler,Wis.",0
+392,False,None,None,None,SaltRiverWildHorses,0
+395,False,None,None,None,SaltRiverWildHorses,0
+399,False,None,None,None,"Spring Lake Park, MN",0
+400,False,None,None,None,Unknown,0
+403,False,None,None,None,"Memphis, TN",0
+405,False,None,None,None,"DMZ, AZ",0
+408,False,None,None,None,Unknown,0
+411,False,None,None,None,Instagram:marissatunis,0
+414,False,None,None,None,"Akron, Ohio",0
+416,False,None,None,None,ColoRADo,0
+417,False,Nuclear,None,Medical,Fukushima,1
+422,False,None,None,None,Unknown,0
+425,False,None,None,None,Earth,0
+428,False,None,None,None,Unknown,0
+430,False,None,None,None,Unknown,0
+431,False,None,None,None,Unknown,0
+433,False,None,None,None,"Irvine, CA",0
+434,False,None,None,None,Internet,0
+439,False,None,None,None,Arlington,0
+441,False,None,None,None,Unknown,0
+449,False,None,None,None,Unknown,0
+458,False,None,None,None,Northwest,0
+460,False,None,None,None,Phuket,0
+464,False,None,None,None,Unknown,0
+473,False,None,None,None,Turkey,0
+488,False,None,None,None,West Covina CA,0
+491,False,None,None,None,Unknown,0
+494,False,None,None,None,Unknown,0
+497,False,None,None,None,Campinas Sp,0
+500,False,None,None,None,Studio,0
+505,False,None,None,None,Unknown,0
+507,False,None,None,None,New York,0
+508,False,None,None,None,Unknown,0
+510,False,None,None,None,#Capulets,0
+511,False,None,None,None,Unknown,0
+515,False,None,None,None,Unknown,0
+525,False,None,None,None,"Bowling Green, Ky",0
+529,False,None,None,None,Unknown,0
+532,False,None,None,None,Unknown,0
+534,False,None,None,None,Unknown,0
+537,False,None,None,None,"Logansport, Indiana",0
+539,False,None,None,None,Rexburg ID,0
+541,False,None,None,None,Unknown,0
+545,False,None,None,None,Mexico,0
+547,True,Arson,Mild,None,Jackson County,2
+548,True,Arson,Moderate,Law Enforcement,Northern California,3
+549,True,Arson,Moderate,Law Enforcement,Duma,3
+553,True,Arson,Moderate,Law Enforcement,American West,3
+554,False,None,None,None,West Michigan,0
+555,True,Arson,Moderate,Medical,Israel,3
+557,True,Arson,Moderate,Medical,Israel,3
+562,False,None,None,None,"Chicago, IL",0
+566,True,Arson,Mild,Law Enforcement,Saginaw,2
+572,True,Arson,Mild,None,Charlton,2
+573,False,None,None,None,Unknown,0
+582,False,Arson,Mild,Law Enforcement,Shawnee,2
+586,True,Arson,Mild,Law Enforcement,Steele,2
+587,False,None,None,None,Unknown,0
+590,True,Arson,Moderate,Law Enforcement,Northern California,3
+591,True,Arson,Mild,Law Enforcement,Chicago,2
+593,True,Arson,Mild,Law Enforcement,Chicago,2
+595,True,Arson,Moderate,Medical,Israel,3
+596,True,Arson,Moderate,Law Enforcement,Contra Costa Co.,3
+597,True,Arson,Mild,Law Enforcement,Chicago,2
+601,False,None,None,None,Unknown,0
+602,False,None,None,None,Unknown,0
+605,True,Arson,Mild,Law Enforcement,NYC,2
+610,True,Arson,Mild,Law Enforcement,Surrey,2
+616,False,None,None,None,Unknown,0
+618,True,Arson,Mild,None,"Dorset, UK",2
+620,True,Arson,Mild,Law Enforcement,San Francisco,2
+626,False,None,None,None,"Toronto, Canada",0
+627,False,None,None,None,Unknown,0
+629,False,None,None,None,Unknown,0
+632,True,Arson,Mild,Law Enforcement,"San Luis Obispo, California",2
+634,False,None,None,None,Long Beach,0
+639,True,Arson,Mild,Law Enforcement,San Francisco,2
+645,True,Arson,Moderate,Law Enforcement,Fresno,3
+647,True,Attack,Moderate,Medical,Delhi,3
+648,False,None,None,Medical,chi town,0
+650,False,None,None,None,Maryland,0
+663,False,None,None,Medical,Unknown,0
+666,False,None,None,None,Texas,0
+668,True,Medical,Severe,Medical,Worldwide,4
+670,False,None,None,None,Unknown,0
+673,True,Attack,Moderate,Medical,US,3
+676,True,Attack,Mild,Medical,Unknown,2
+678,False,None,None,None,Peru,0
+692,False,None,None,None,United Kingdom,0
+693,False,None,None,None,venezuela,0
+694,False,None,None,Medical,Unknown,0
+695,False,None,None,None,Twitter,0
+696,True,Attack,Moderate,Medical,"Udhampur, New Delhi,India",3
+698,True,Attack,Moderate,Medical,"Seaton Delaval, Newcastle, UK",3
+701,False,None,None,None,Australia,0
+703,True,Attack,Moderate,Medical,Temple Mount,3
+707,True,Attack,Moderate,Medical,"Temple Mount, Revolutionary Road, USA",3
+708,True,Attack,Severe,Medical,Tennessee,4
+711,True,Attack,Moderate,Medical,"Temple Mount, 1937 Germany",3
+715,True,Attack,Moderate,Medical,"Temple Mount, Toronto, Ontario",3
+718,False,None,None,None,Indonesia,0
+722,False,None,None,None,N.Y.C,0
+723,True,Attack,Mild,Medical,"Superior, WI",2
+733,True,Attack,Moderate,Medical,"Temple Mount, Melbourne",3
+741,False,None,None,None,"Helsinki, Finland",0
+742,True,Attack,Moderate,Medical,Temple Mount,3
+743,False,None,None,None,"Nashville, TN",0
+747,False,None,None,None,"Down, down, baby...,SC.",0
+749,False,None,None,None,Unknown,0
+750,False,None,None,None,Unknown,0
+756,False,None,None,None,Unknown,0
+757,False,None,None,None,Turin,0
+760,False,None,None,None,Unknown,0
+764,False,None,None,None,"Saint Andrews, Scotland",0
+765,False,None,None,None,Unknown,0
+766,False,None,None,None,Unknown,0
+768,False,None,None,None,"Denver, CO",0
+769,False,None,None,None,Unknown,0
+771,False,None,None,None,Michigan,0
+772,False,None,None,None,Unknown,0
+776,False,None,None,None,KATONG PLAZA,0
+778,False,None,None,None,Unknown,0
+780,False,None,None,None,"Denver, CO",0
+785,False,None,None,None,Valusia,0
+789,False,None,None,None,Anaheim,0
+792,False,None,None,None,Unknown,0
+793,False,None,None,None,Unknown,0
+811,False,None,None,None,Gallipoli,0
+813,False,None,None,None,"Midland, MI",0
+816,False,None,None,None,"Seraphim Vault, Cosmodrone",0
+821,False,None,None,None,Unknown,0
+824,False,None,None,None,Gislaved,0
+825,False,None,None,None,USA,0
+827,False,None,None,None,Australia,0
+830,True,Bioterrorism,Moderate,Medical,Unknown,3
+831,True,Bioterrorism,Moderate,Medical,Unknown,3
+839,True,Bioterrorism,Moderate,Medical,South of Boston,3
+844,True,Bioterrorism,Moderate,Medical,baltimore,3
+847,True,Bioterrorism,Moderate,Medical,East Texas,3
+850,True,Bioterrorism,Moderate,Medical,"Washington, D.C.",3
+854,True,Bioterrorism,Moderate,Medical,Unknown,3
+855,True,Bioterrorism,Moderate,Medical,"Jacksonville, FL",3
+858,True,Bioterrorism,Moderate,Medical,Dugway Proving Grounds,3
+861,True,Bioterrorism,Moderate,Medical,"Phoenix, AZ",3
+862,True,Bioterrorism,Moderate,Medical,Springfield Tn,3
+865,True,Bioterrorism,Moderate,Medical,"Jacksonville, Florida",3
+869,True,Bioterrorism,Moderate,Medical,Unknown,3
+879,True,Bioterrorism,Moderate,Medical,USA,3
+880,True,Bioterrorism,Moderate,Medical,Los Angeles,3
+887,True,Bioterrorism,Moderate,Medical,"Amsterdam, Greenwich",3
+889,True,Bioterrorism,Severe,Medical,Unknown,5
+897,True,Bioterrorism,Moderate,Medical,Unknown,3
+900,True,Bioterrorism,Moderate,Medical,"Denver,CO USA",3
+901,False,None,None,None,The Forbidden Forest,0
+904,True,Bioterrorism,Moderate,Medical,Unknown,3
+908,True,Bioterrorism,Moderate,Medical,Unknown,3
+909,True,Bioterrorism,Moderate,Medical,Unknown,3
+910,True,Bioterrorism,Severe,Medical,Unknown,5
+913,True,Bioterrorism,Moderate,Medical,"Uganda, Alaska",3
+914,False,None,None,Legal,"Capitol Hill, Washington",0
+917,False,None,None,None,"Fargo, ND",0
+918,True,Bioterrorism,Severe,Medical,Unknown,5
+920,True,Bioterrorism,Moderate,Medical,Unknown,3
+922,True,Bioterrorism,Moderate,Medical,Unknown,3
+924,True,Bioterrorism,Moderate,Medical,Unknown,3
+925,True,Bioterrorism,Moderate,Medical,Philippines,3
+927,True,Bioterrorism,Severe,Medical,Unknown,5
+933,False,None,None,None,Mo.City,0
+937,False,None,None,None,"Cleveland, OH",0
+943,False,None,None,None,"Missoula, MT",0
+949,False,None,None,None,Gotham City,0
+950,True,Fire,Moderate,Shelter,"Port Coquitlam, Vancouver",3
+954,False,None,None,None,Texas,0
+966,False,None,None,None,Unknown,0
+967,False,None,None,None,Unknown,0
+969,False,None,None,None,"Strathmore, California",0
+970,True,Fire,Moderate,Shelter,"Lithgow, Portland, NSW, Australia",3
+973,False,None,None,None,"North Hollywood, CA",0
+1295,False,None,None,None,California,0
+1299,False,None,None,None,Unknown,0
+1306,False,None,None,None,Canada,0
+1310,False,None,None,None,Earthrealm,0
+1311,False,None,None,None,Baltimore,0
+1313,False,None,None,None,Unknown,0
+1314,False,None,None,None,Unknown,0
+1322,False,None,None,None,Unknown,0
+1323,False,None,None,None,Unknown,0
+1325,False,None,None,None,Beacon Hills,0
+1329,False,None,None,None,Unknown,0
+1330,False,None,None,None,Unknown,0
+1333,False,None,None,None,Unknown,0
+1336,False,None,None,None,Unknown,0
+1339,False,None,None,None,Unknown,0
+1342,False,None,None,None,"Toledo, OH",0
+1344,False,None,None,None,Unknown,0
+1355,True,Bombing,Severe,Medical,Saudi Arabia,5
+1357,False,None,None,None,Unknown,0
+1358,False,None,None,None,Unknown,0
+1359,False,None,None,None,Los Angeles,0
+1364,False,None,None,None,"Ventura Blvd. WHills, CA",0
+1366,False,None,None,None,Unknown,0
+1367,False,None,None,None,Unknown,0
+1370,False,None,None,None,Pakistan,0
+1373,False,None,None,None,Northern Scandinavia,0
+1377,False,None,None,None,Australia,0
+1386,False,None,None,None,New York,0
+1387,False,None,None,None,Salt Lake City,0
+1392,False,None,None,None,Unknown,0
+1397,False,None,None,None,New York,0
+1398,False,None,None,None,Unknown,0
+1400,False,None,None,None,Unknown,0
+1403,False,None,None,None,Las Vegas,0
+1404,False,None,None,None,Dalton,0
+1410,False,None,None,None,New York,0
+1413,False,None,None,None,Unknown,0
+1416,False,None,None,None,Paignton,0
+1417,False,None,None,None,Unknown,0
+1423,True,None,Mild,Medical,DC Metro Area,2
+1424,False,None,None,None,Paignton,0
+1426,False,None,None,None,Orlando,0
+1427,False,None,None,None,"Rowlett, TX",0
+1428,False,None,None,None,New York,0
+1430,False,None,None,None,Bloemfontein,0
+1434,False,None,None,None,Unknown,0
+1435,False,None,None,None,North West,0
+1437,False,None,None,None,"Nassau, Bahamas",0
+1438,False,None,None,None,"University, FL",0
+1442,False,None,None,None,Harlem,0
+1446,False,None,None,None,Canada,0
+1451,False,None,None,None,Unknown,0
+1457,False,None,None,None,Unknown,0
+1461,False,None,None,None,O-Town,0
+1462,False,None,None,None,Botswana Gaborone,0
+1465,False,None,None,None,"Dirty Bay, CA",0
+1468,False,None,None,None,Unknown,0
+1469,False,None,None,None,"Broward, Miami, Tally",0
+1471,False,None,None,None,Unknown,0
+1476,False,None,None,None,Cape Town,0
+1478,False,None,None,None,Unknown,0
+1481,False,None,None,None,Unknown,0
+1489,False,None,None,None,"West Monroe, Louisiana",0
+1490,False,None,None,None,CLEVELAND,0
+1492,True,Bombing,Severe,Medical,Yemen,5
+1496,False,None,None,None,Unknown,0
+1512,False,None,None,None,"Fairfax Co., VA",0
+1516,False,None,None,None,Unknown,0
+1517,False,None,None,None,Unknown,0
+1528,False,None,None,None,Unknown,0
+1529,False,None,None,None,"NYC, Japan",0
+1536,True,Bombing,Severe,Medical,Hiroshima,5
+1539,False,None,None,None,Unknown,0
+1541,False,None,None,None,"San Antonio, TX",0
+1542,False,None,None,None,"Texas, USA",0
+1548,True,Bombing,Severe,Medical,Hiroshima,5
+1550,False,None,None,None,"Tinley Park, IL",0
+1551,False,None,None,None,Oakland,0
+1552,True,Bombing,Severe,Medical,Nagasaki,5
+1557,True,Bombing,Severe,Medical,Unknown,5
+1563,False,None,None,None,Long Beach,0
+1564,False,None,None,None,shanghai,0
+1565,False,None,None,None,Unknown,0
+1566,True,Bombing,Severe,Medical,Hiroshima,5
+1571,False,None,None,None,Unknown,0
+1578,False,None,None,None,Unknown,0
+1581,False,None,None,None,Unknown,0
+1583,False,None,None,None,Unknown,0
+1584,False,None,None,None,Ventura County,0
+1586,True,Bombing,Severe,Medical,Hiroshima,5
+1589,True,Bombing,Severe,Medical,Hiroshima,5
+1592,True,Bombing,Severe,Medical,Hiroshima,5
+1598,True,Bombing,Severe,Medical,Hiroshima,5
+1606,False,None,None,None,Unknown,0
+1612,False,None,None,None,"Vernal, Utah",0
+1616,True,Bombing,Severe,Medical,SomaliaEritrea,5
+1620,False,None,None,None,Birmingham,0
+1624,False,None,None,None,Unknown,0
+1629,True,Bombing,Severe,Medical,Hiroshima,5
+1630,True,Bombing,Severe,None,Unknown,5
+1947,False,None,None,None,US of Eh,0
+1958,False,None,None,None,Unknown,0
+1964,False,None,None,None,San Francisco,0
+1970,False,Fire,Mild,Firefighting,San Diegohhjhhhhhghghpjg,1
+1974,False,None,None,None,The Internet & NYC,0
+1977,True,Fire,Moderate,Firefighting,Scotland,3
+1978,True,Fire,Mild,Firefighting,Unknown,2
+1982,True,Fire,Moderate,Medical,Albania,4
+1984,True,Fire,Mild,None,South Africa,2
+1988,False,None,None,None,"Melbourne, Australia",0
+1993,True,Fire,Moderate,None,Australia Blue Mountains,3
+1997,False,None,None,None,aus,0
+1998,True,Fire,Moderate,Medical,Albania,4
+2002,False,None,None,None,None,0
+2004,True,Fire,Mild,None,Australia,2
+2005,False,None,None,None,Mid north coast of NSW,0
+2008,True,Fire,Mild,None,Eugene,1
+2011,False,None,None,None,None,0
+2013,False,None,None,None,None,0
+2018,True,Bombing,Moderate,Medical,Yemen,3
+2021,True,War,Moderate,Medical,Afghan,3
+2025,False,None,None,None,Welly & Aucklnd,0
+2029,True,Bombing,Severe,Medical,Hiroshima and Nagasaki,5
+2030,False,None,None,None,Worldwide,0
+2032,False,None,None,None,"San Francisco, Los Angeles",0
+2037,False,None,None,None,None,0
+2041,False,None,None,None,"Arizona, USA",0
+2044,True,War,Severe,Medical,None,4
+2048,True,Bombing,Moderate,Medical,Yemen,3
+2052,False,None,None,None,Nashville,0
+2053,True,War,Severe,Medical,Iwo Jima and Okinawa,4
+2054,True,War,Severe,Medical,Japan,4
+2062,False,None,None,None,Canada,0
+2065,False,None,None,None,Scottsdale AZ,0
+2066,False,None,None,None,None,0
+2072,False,None,None,None,None,0
+2079,False,None,None,None,"Russia, Ukraine",0
+2080,False,None,None,None,"West Hampstead, London NW6",0
+2085,False,None,None,None,RollingMeadows,0
+2088,False,None,None,None,"Cambridge, MA",0
+2090,False,None,None,None,"Washington, D.C.",0
+2092,False,None,None,None,None,0
+2093,False,None,None,None,None,0
+2101,False,None,None,None,"Paranaque City, National Capital Region",0
+2104,False,None,None,None,Toronto,0
+2105,False,None,None,None,None,0
+2106,False,None,None,None,"Houston, TX",0
+2107,False,None,None,None,None,0
+2120,False,None,None,None,"Oakland, CA",0
+2124,False,None,None,None,None,0
+2127,False,None,None,None,None,0
+2130,False,None,None,None,"Carrboro, NC",0
+2132,False,None,None,None,Germany,0
+2135,False,None,None,None,#BVSTRONG,0
+2137,True,War,Severe,"Medical, Shelter, Food","Gaza, Palestine, Israel",5
+2140,False,None,None,None,Australia,0
+2143,False,None,None,None,None,0
+2147,False,None,None,None,"Tulsa, OK",0
+2151,False,None,None,None,"Blackfield, England",0
+2152,True,Water Shortage,Severe,Water,Puerto Rico,4
+2155,False,None,None,None,Alaska,0
+2156,False,None,None,None,"Illinois, USA",0
+2162,False,None,None,None,"Nevada, USA",0
+2165,False,None,None,None,None,0
+2166,False,None,None,None,United States,0
+2167,False,None,None,None,None,0
+2168,False,None,None,None,None,0
+2170,False,None,None,None,None,0
+2178,True,Bombing,Severe,Medical,Hiroshima and Nagasaki,5
+2180,False,None,None,None,None,0
+2182,True,Climate Change,Moderate,None,None,3
+2184,False,None,None,Medical,US,0
+2185,False,None,None,None,None,0
+2187,False,None,None,None,None,0
+2196,False,None,None,None,None,0
+2197,True,Volcanic Eruption,Moderate,Shelter,None,3
+2199,False,None,None,None,"Mechanicsville, VA",0
+2200,False,None,None,None,California,0
+2201,False,None,None,None,Edmonton,0
+2202,True,Food Shortage,Severe,Food,None,4
+2206,True,Climate Change,Moderate,None,None,3
+2208,False,None,None,None,OHIO,0
+2218,False,None,None,None,SF,0
+2223,False,Chemical Spill (Drill),None,None,"New Jersey, USA",0
+2224,True,Chemical Spill,Moderate,Medical,"Corpus Christi, Texas",3
+2226,False,None,None,None,None,0
+2228,True,Chemical Emergency,Mild,Medical,Bacup,2
+2232,True,Chemical Emergency,Mild,Medical,Bacup,2
+2234,True,Chemical Emergency,Mild,Medical,Hammondville,2
+2243,True,Chemical Spill,Moderate,Medical,Hammondville,3
+2247,False,None,None,None,None,0
+2249,True,Chemical Emergency,Mild,Medical,Bacup,2
+2252,False,None,None,None,Southern MD,0
+2253,True,Chemical Spill,Moderate,Medical,RedruthåÊUK,3
+2259,False,None,None,None,None,0
+2261,False,None,None,None,None,0
+2264,False,None,None,None,None,0
+2268,False,None,None,None,None,0
+2269,False,None,None,None,None,0
+2270,False,None,None,None,None,0
+3620,True,Earthquake,Moderate,Shelter,"Sydney, Australia",3
+3622,False,None,None,None,Unknown,0
+3624,False,None,None,None,Global,0
+3630,False,None,None,None,Unknown,0
+3644,False,None,None,MentalHealth,Subconscious LA,0
+3649,False,None,None,None,"Phoenix, AZ",0
+3651,False,None,None,None,"Manchester, Lille",0
+3654,False,None,None,None,Unknown,0
+3665,False,None,None,None,Unknown,0
+3668,False,None,None,None,Unknown,0
+3671,False,None,None,MentalHealth,Raleigh,0
+3672,False,None,None,None,Unknown,0
+3673,False,None,None,None,Unknown,0
+3677,False,None,None,None,London,0
+3678,False,None,None,None,Curitiba-PR,0
+3687,False,None,None,None,"Elsmere, Wilmington, DE",0
+3688,False,None,None,None,Unknown,0
+3693,False,None,None,None,Grandmother Willow's,0
+3698,False,None,None,None,Unknown,0
+3699,False,None,None,None,"Iraq, Syria",0
+3701,True,Flood,Moderate,Shelter,Kaduna,3
+3703,False,None,None,None,USA,0
+3706,False,None,None,None,Unknown,0
+3707,False,None,None,None,Chicago,0
+3709,True,Flood,Moderate,Shelter,"festac, Lagos, Nigeria, Sokoto",3
+3711,False,None,None,None,Unknown,0
+3714,False,None,None,None,Unknown,0
+3716,False,None,None,None,USA,0
+3720,True,Flood,Moderate,Shelter,"Nigeria, Kaduna",3
+3728,True,Bombing,Severe,Medical,"Cape Town, South Africa, Hiroshima",5
+3731,False,None,None,None,"Virginia, Europe, America",0
+3732,False,None,None,None,Argentina,0
+3733,True,Bombing,Severe,Shelter,"Dunedin, New Zealand, Gaza",5
+3734,False,None,None,None,norton,0
+3740,False,None,None,None,Rome,0
+3746,False,None,None,None,L.A,0
+3749,False,None,None,None,North Korea,0
+3751,False,None,None,None,Unknown,0
+3755,False,None,None,None,Glasgow,0
+3757,False,None,None,None,"Hounslow, London",0
+3762,False,None,None,None,"lake worth, Fl",0
+3767,False,None,None,None,Hell,0
+3769,False,None,None,None,The Floor,0
+3779,False,None,None,None,Unknown,0
+3781,False,None,None,None,"Hollywood, Russian",0
+3782,False,None,None,None,Unknown,0
+3783,True,Bombing,Severe,Medical,Unknown,5
+3784,False,None,None,None,Otsuka Village,0
+3790,False,None,None,None,"Piedmont, CA",0
+3791,False,None,None,None,Unknown,0
+3792,True,Bombing,Severe,Medical,Hiroshima,5
+3794,False,None,None,None,Unknown,0
+3799,False,None,None,None,"Nashville, Music City, USA",0
+3801,False,None,None,None,"Amsterdam, Worldwide",0
+3804,False,None,None,None,"Detroit, MI",0
+3808,False,None,None,None,Unknown,0
+3809,False,None,None,None,World Wide,0
+3811,False,None,None,None,Texas Hill Country,0
+3813,False,None,None,None,"Morioh, Japan",0
+3817,False,None,None,None,"charlotte, nc",0
+3818,False,None,None,None,D.C.,0
+3823,False,None,None,None,Unknown,0
+3843,False,None,None,None,"Nashville, TN",0
+3844,False,None,None,None,Amsterdam,0
+3846,False,None,None,None,Aomori,0
+3847,True,Bombing,Mild,Evacuation,"Boulder, DC",2
+3852,False,None,None,None,Unknown,0
+3854,False,None,None,None,Unknown,0
+3856,False,None,None,None,Unknown,0
+3863,False,None,None,None,Unknown,0
+3865,False,None,None,None,"Palacio, Madrid",0
+3867,False,None,None,None,Unknown,0
+3871,False,None,None,None,Unknown,0
+3872,False,None,None,None,Unknown,0
+3878,False,None,None,None,Unknown,0
+3880,False,None,None,None,Unknown,0
+3881,False,None,None,None,Unknown,0
+3882,True,Bombing,Mild,None,"ShloMotion, Jerusalem, Golan Heights",2
+3883,False,None,None,None,Unknown,0
+3884,True,Bombing,Mild,None,"Jerusalem, Golan Heights",2
+3885,False,None,None,None,Unknown,0
+3886,False,None,None,None,Unknown,0
+3890,False,None,None,None,"Poughkeepsie, NY",0
+3891,True,Bombing,Mild,None,Unknown,2
+3898,True,Typhoon,Severe,Shelter,Saipan,4
+3902,False,None,None,None,Unknown,0
+3909,False,None,None,None,New Orleans,0
+3910,False,None,None,None,Unknown,0
+3912,False,None,None,None,astral plane,0
+3915,True,Typhoon,Severe,Shelter,"Saipan, Northern Marians",4
+3918,False,None,None,None,Unknown,0
+3920,True,Typhoon,Severe,Shelter,"Saipan, Northern Marians",4
+3925,False,None,None,None,south wales valleys,0
+3928,False,None,None,None,Unknown,0
+3929,False,None,None,None,Unknown,0
+3930,True,Typhoon,Severe,Shelter,"Dhaka, Saipan, Northern Marians",4
+3931,False,None,None,None,Scotland,0
+3934,False,None,None,None,"toronto, unicorn island",0
+3939,False,None,None,None,cork,0
+3941,False,None,None,None,Ireland,0
+5402,True,Fire,Moderate,Medical,New Jersey,3
+5405,False,None,None,None,"Augusta, GA",0
+5414,False,None,None,Education,Philippines,0
+5415,False,None,None,None,"Indianapolis, Indiana",0
+5419,False,None,None,None,"Columbia, MO",0
+5421,False,None,None,None,Unknown,0
+5422,False,None,None,Medical,Unknown,0
+5424,False,None,None,None,Columbia,0
+5427,False,None,None,Mental Health,Northern Colorado,0
+5429,False,None,None,None,Unknown,0
+5431,True,Fire,Moderate,Food,"Eufaula, Oklahoma",3
+5433,False,None,None,None,"Jacksonville, FL",0
+5434,True,Shooting,Severe,Medical,Lafayette,5
+5435,False,None,None,None,Unknown,0
+5436,False,None,None,None,"Boston, New England",0
+5438,True,Shooting,Severe,Medical,Shreveport,5
+5440,False,None,None,None,Unknown,0
+5441,True,Fire,Moderate,Food,"Goldsboro, NC",3
+5447,False,None,None,Medical,Unknown,0
+5451,False,None,None,None,"Tennessee, USA",0
+5453,False,None,None,None,Nevada,0
+5456,False,None,None,Information,Hull ma,0
+5457,False,None,None,Volunteers,"Cedar City, Utah",0
+5463,False,None,None,None,Unknown,0
+5464,False,None,None,None,Unknown,0
+5470,False,None,None,None,Unknown,0
+5472,True,Fire,Mild,Medical,Unknown,2
+5474,False,None,None,None,Unknown,0
+5478,False,None,None,None,New York,0
+5483,False,None,None,None,Little Rock,0
+5490,False,None,None,None,Unknown,0
+5500,False,None,None,None,"Fargo, ND",0
+5504,False,None,None,None,Unknown,0
+5508,False,None,None,None,Unknown,0
+5511,False,None,None,None,Unknown,0
+5512,False,None,None,None,Unknown,0
+5513,False,None,None,None,Swansea,0
+5516,False,None,None,None,Unknown,0
+5523,False,None,None,None,Derbyshire,0
+5527,False,None,None,None,Unknown,0
+5530,False,None,None,None,"Hawkes Bay, New Zealand",0
+5533,False,None,None,None,"Salford, Greater Manchester",0
+5536,False,None,None,None,"Whitley Bay, England",0
+5537,False,None,None,None,New York,0
+5542,False,None,None,None,Unknown,0
+5543,False,None,None,None,San Diego,0
+5546,False,None,None,None,Unknown,0
+5549,False,None,None,None,Unknown,0
+5550,False,None,None,None,"Hermiston, Oregon",0
+5551,False,None,None,None,Unknown,0
+5562,False,None,None,None,New York,0
+5566,False,None,None,None,Unknown,0
+5568,True,Flood,Mild,Clean-up,Tampa,2
+5571,True,Flood,Moderate,Shelter,"Hana, Maui Co HI",3
+5572,True,Flood,Mild,Information,Kentucky,2
+5574,False,None,None,None,New York,0
+5583,False,None,None,None,Unknown,0
+5585,False,None,None,None,New York,0
+5591,True,Flood,Mild,Relocation,Calgary,2
+5596,False,None,None,None,New York,0
+5597,False,None,None,None,New York,0
+5601,True,Flood,Severe,Food,Myanmar,5
+5606,True,Flood,Mild,Information,"Desloge, Mo",2
+5607,False,None,None,None,New York,0
+5610,False,None,None,None,New York,0
+5615,False,None,None,None,"yakima, wa",0
+5616,True,Flood,Severe,None,"Travis County, Austin, Texas",5
+5623,False,None,None,None,Unknown,0
+5630,True,Flood,Mild,Repair,New York City,2
+5636,True,Flood,Moderate,Financial,Sponge Docks,3
+5637,True,Flood,Moderate,Shelter,Nigeria,3
+5639,False,None,None,None,"Raleigh, NC",0
+5640,True,Flood,Mild,Information,Pasco County,2
+5643,True,Flood,Severe,Financial,Myanmar,5
+5648,False,None,None,None,"Maryland, USA",0
+5649,False,None,None,None,Unknown,0
+5660,False,None,None,None,Unknown,0
+5666,False,None,None,None,Miami,0
+5667,True,Flood,Mild,Information,Pasco,2
+5678,True,Flood,Mild,Infrastructure,kpk,2
+5679,False,None,None,None,America,0
+5681,True,Flood,Moderate,Financial,Colorado,3
+5682,False,None,None,None,Unknown,0
+5691,False,None,None,None,Unknown,0
+5696,True,Flood,Severe,Shelter,Philippines,5
+5697,True,Flood,Moderate,Shelter,"Manila, Philippines",3
+5700,False,None,None,None,Unknown,0
+5701,False,None,None,None,"Guayaquil, Ecuador",0
+5702,True,Flood,Severe,Financial,Myanmar,5
+5708,True,Flood,Severe,Food,"India, Myanmar",5
+5709,True,Flood,Moderate,Financial,Bengal,3
+5718,True,Fire,Mild,None,"Forest Grove, Oregon, USA",2
+5723,True,Fire,Moderate,Fire Fighting,Unknown,3
+5725,True,Fire,Mild,Fire Fighting,"Winston Salem, Pisgah National Forest",2
+5728,True,Fire,Mild,Fire Fighting,Tahoe Forest,2
+5731,True,Fire,Mild,None,Forest Grove,2
+5735,True,Fire,Moderate,Financial,US,3
+5737,True,Fire,Moderate,Financial,US,3
+5738,False,None,None,None,Babylon Up-On Hudson,0
+5742,False,None,None,Information,San Francisco,0
+6080,True,Heat Wave,Moderate,Medical,Unknown,3
+6081,True,Heat Wave,Severe,Medical,"Chiba, Japan",4
+6082,True,Heat Wave,Severe,Medical,Japan,5
+6089,False,None,None,None,"Denver, Colorado",0
+6095,False,None,None,None,Unknown,0
+6101,False,None,None,None,Unknown,0
+6107,False,None,None,None,"Oakland, CA",0
+6114,False,None,None,None,Unknown,0
+6117,False,None,None,None,"Denver, Colorado",0
+6121,False,None,None,None,Beal Feirste Northern Ireland,0
+6122,False,None,None,None,Unknown,0
+6124,False,None,None,None,Azeroth,0
+6129,False,None,None,None,"Denver, Colorado",0
+6131,False,None,None,None,Unknown,0
+6136,False,None,None,None,Bayelsa State,0
+6139,True,Hijacking,Moderate,Search and Rescue,Malaysia,3
+6142,False,None,None,None,Unknown,0
+6143,False,None,None,None,Bayelsa,0
+6144,False,None,None,None,"FCT, Abuja, Bayelsa",0
+6149,False,None,None,None,Egypt,0
+6155,False,None,None,None,"Delta, Nigeria, Bayelsa",0
+6157,False,None,None,None,UK,0
+6158,False,None,None,None,Unknown,0
+6161,False,None,None,None,"Swansea, Southampton",0
+6168,False,None,None,None,Unknown,0
+6172,False,None,None,None,Southampton,0
+6176,False,None,None,None,"Swansea, Southampton",0
+6177,False,None,None,None,"Ukraine, Donbas",0
+6179,False,None,None,None,Bayelsa,0
+6180,True,Hijacking,Moderate,Police,"Enugu, Nigeria",3
+6182,False,None,None,None,Norwich,0
+6186,False,None,None,None,"Saint Petersburg, FL",0
+6189,False,None,None,None,Unknown,0
+6190,False,None,None,None,Unknown,0
+6194,True,Hijacking,Moderate,Police,California,3
+6204,False,None,None,None,Roermond,0
+6205,False,None,None,None,Unknown,0
+6209,False,None,None,None,Unknown,0
+6210,False,None,None,None,Unknown,0
+6212,False,None,None,None,Unknown,0
+6214,True,Hijacking,Moderate,Police,"California, Amman",3
+6221,True,Hijacking,Moderate,Police,California Central Valley,3
+6225,True,Hijacking,Moderate,Police,California,3
+6228,False,None,None,None,Unknown,0
+6229,False,None,None,None,"Fairfax, VA",0
+6231,False,None,None,None,Unknown,0
+6235,True,Hijacking,Moderate,Police,"Washington, D.C.",3
+6236,False,None,None,None,Unknown,0
+6237,True,Hijacking,Moderate,Police,America,3
+6238,False,None,None,None,Unknown,0
+6239,False,None,None,None,"Chinade, Nigeria",0
+6242,False,None,None,None,Melbourne,0
+6249,False,None,None,None,China,0
+6250,False,None,None,None,Georgia,0
+6251,False,None,None,None,"Sydney, Australia",0
+6252,True,Hijacking,Moderate,Police,Italy,3
+6260,False,None,None,None,Unknown,0
+6264,False,None,None,None,Unknown,0
+6266,False,None,None,None,Maryland,0
+6270,False,None,None,None,Unknown,0
+6275,False,None,None,None,"Darwins, au",0
+6279,False,None,None,None,Unknown,0
+6280,False,None,None,None,Russia,0
+6284,False,None,None,None,France,0
+6285,True,Hostage,Severe,Negotiation,Unknown,4
+6286,True,Hostage,Moderate,Police,LA,3
+6287,True,Hostage,Severe,Negotiation,"Moncton, NB",4
+6288,False,None,None,None,Unknown,0
+6289,True,Hostage,Moderate,Police,Unknown,3
+6290,False,None,None,None,"Limerick, Ireland",0
+6291,True,Hostage,Severe,Negotiation,"Sinai, Seattle, WA",4
+6295,True,Hostage,Moderate,Police,"Long Island, New York",3
+6298,True,Hostage,Severe,Negotiation,"Lahore, Pakistan",4
+6307,True,Hostage,Severe,Negotiation,Egypt,4
+6308,False,None,None,None,Unknown,0
+6309,True,Hostage,Severe,Negotiation,Unknown,4
+6313,False,None,None,None,Unknown,0
+6316,True,Hostage,Severe,Negotiation,LA,4
+6319,False,None,None,None,Southern California,0
+6321,False,None,None,None,"Columbus, OH",0
+6324,False,None,None,None,Unknown,0
+6327,False,None,None,None,Behavioral Analysis Unit (BAU),0
+6333,True,Hostage,Severe,Negotiation,"Cairo, Egypt",4
+6351,True,Hostage,Moderate,Police,Brentwood uk,3
+6352,True,Hostage,Severe,Rescue,Iran,4
+6353,False,None,None,None,Unknown,0
+6357,True,Hostage,Severe,Rescue,"China, Iran",4
+6359,True,Hostage,Severe,Negotiation,"Iran, USA, Israel",4
+6360,True,Hostage,Moderate,Police,India,3
+6364,True,Hostage,Severe,Rescue,Sinjar,5
+6367,True,Hostage,Severe,Rescue,Unknown,4
+6368,True,Hostage,Moderate,Police,India,3
+6377,True,Hostage,Severe,Rescue,"Sinjar, Rocky Mountains",5
+6378,True,Hostage,Severe,Rescue,"Sinjar, Rocky Mountains",5
+6379,False,None,None,None,Unknown,0
+6381,True,Hostage,Severe,Rescue,"Sinjar, Portland",5
+6390,True,Hurricane,Severe,Shelter,Unknown,5
+6401,False,None,None,None,Unknown,0
+6408,True,Hurricane,Severe,Shelter,"San Francisco, CA, New Orleans",5
+6409,True,Hurricane,Moderate,Shelter,Unknown,3
+6411,False,None,None,None,"San Antonio, TX",0
+6419,False,None,None,None,melbs,0
+6424,True,Hurricane,Mild,None,Hawaii,2
+6426,True,Hurricane,Moderate,None,"Astoria, NY",3
+6428,False,None,None,None,"Tuscumbia, AL",0
+6431,False,None,None,None,MS,0
+6432,True,Hurricane,Moderate,None,Brooklyn,3
+6433,False,None,None,None,Dublin,0
+6435,True,Bombing,Moderate,Medical,Udhampur,3
+6437,False,None,None,None,"tacompton, washington",0
+6439,True,Bombing,Severe,Medical,Gaza,5
+6442,False,None,None,None,The North Coast,0
+6444,True,Bombing,Moderate,Medical,Udhampur,3
+6447,True,Bombing,Mild,Medical,Radcliff,2
+6456,False,None,None,Medical,Harper Woods,0
+6457,False,None,None,Medical,"Washington, DC",0
+6460,False,None,None,None,Unknown,0
+6468,False,None,None,None,Nj ?? Az,0
+6471,True,Bombing,Moderate,Medical,Udhampur,3
+6475,False,None,None,None,"Richmond, VA, USA",0
+6476,True,Bombing,Moderate,Medical,Udhampur,3
+6479,True,Bombing,Moderate,Medical,Udhampur,3
+6483,True,Explosion,Moderate,Medical,Neelum Valley,3
+6487,True,Fire,Mild,Medical,"chapel hill, cary n.c.",2
+6488,False,None,None,None,Edmonton,0
+6489,False,None,None,None,Unknown,0
+6496,False,None,None,None,"Glendale, AZ",0
+6498,False,None,None,None,North Carolina,0
+6502,False,None,None,None,Unknown,0
+6503,False,None,None,None,Unknown,0
+6507,False,None,None,None,"San Francisco, CA",0
+6508,False,None,None,None,Unknown,0
+6509,True,Accident,Moderate,Medical,Saint Petersburg FL,3
+6517,False,None,None,None,Unknown,0
+6521,False,None,None,None,"Phoenix, AZ",0
+6522,False,None,None,None,Michigan,0
+6524,False,None,None,None,"Michigan, USA",0
+6526,False,None,None,None,Fantasy Land,0
+6531,False,None,None,None,South Side,0
+6533,False,None,None,None,"Kibworth Beauchamp, England",0
+6538,False,None,None,None,3/12 + Jake Miller,0
+6539,True,Accident,Mild,Medical,Silver Spring,2
+6544,True,Accident,Mild,Medical,Silver Spring,2
+6557,False,None,None,None,Unknown,0
+6558,False,None,None,None,Unknown,0
+6562,False,None,None,None,Unknown,0
+6563,False,None,None,None,Las Vegas,0
+6564,False,None,None,None,Unknown,0
+6574,False,None,None,None,All Round The World,0
+6578,False,None,None,None,Las Vegas,0
+6581,False,None,None,None,Unknown,0
+6584,False,None,None,None,Unknown,0
+6587,False,None,None,None,"Bellingham, WA",0
+6589,False,None,None,None,Searching for Rivendell,0
+6590,False,None,None,None,"New York, NY",0
+6592,False,None,None,None,"Shrewsbury, England",0
+6595,True,Flood,Mild,None,Mexican beaches,2
+6599,False,None,None,None,GroÌÙdeutsches Reich,0
+6600,False,None,None,None,"Los Angeles, CA",0
+6606,False,None,None,None,"Beijing,China",0
+6609,False,None,None,None,San Diego,0
+6612,False,None,None,None,"Ottawa, Ontario",0
+6615,False,None,None,None,Chicagoland,0
+6618,False,None,None,None,"Dallas, TX",0
+6620,False,None,None,None,Unknown,0
+6623,True,Flood,Mild,Shelter,Unknown,2
+6633,False,None,None,None,That London,0
+6639,True,Flood,Moderate,Shelter,Manipur,3
+6640,False,None,None,None,NY,0
+6641,True,Flood,Moderate,Shelter,Punjab,3
+6645,False,None,None,None,Unknown,0
+6650,False,None,None,None,Wickford,0
+6651,False,None,None,None,Unknown,0
+6652,True,Landslide,Moderate,Shelter,Florence,3
+6657,False,None,None,None,Unknown,0
+6659,False,None,None,None,Unknown,0
+6666,True,Landslide,Moderate,Shelter,Unknown,3
+6671,False,None,None,None,"New Delhi, Delhi",0
+6673,True,Landslide,Mild,None,Horseshoe Casino,2
+6674,False,None,None,None,Unknown,0
+6677,False,None,None,None,Unknown,0
+6680,False,None,None,None,Shangri-La,0
+6684,False,None,None,None,"Morgantown, WV",0
+6685,False,None,None,None,Unknown,0
+6691,False,None,None,None,Unknown,0
+6692,False,None,None,None,Unknown,0
+6696,True,Landslide,Mild,None,CecilTownship,2
+6698,False,None,None,None,Unknown,0
+6704,False,None,None,None,Philippines,0
+6705,False,None,None,None,trinity nc,0
+6710,False,None,None,None,Unknown,0
+6713,False,None,None,None,Unknown,0
+6715,False,None,None,None,"New York, NY",0
+6717,False,None,None,None,Budgam kashmir,0
+6718,False,None,None,None,"Missouri, USA",0
+6720,False,None,None,None,somewhere over the rainbow,0
+6728,False,None,None,None,Unknown,0
+6732,False,None,None,None,"Los Angeles, CA",0
+6733,False,None,None,None,Unknown,0
+6739,False,None,None,None,Unknown,0
+6740,False,None,None,None,Indonesia,0
+6741,False,None,None,None,Unknown,0
+6743,False,None,None,None,Unknown,0
+6747,False,None,None,None,Unknown,0
+6750,True,Lightning,Mild,None,Northwest Arkansas,2
+6752,False,None,None,None,"Staten Island, NY",0
+6753,False,None,None,None,Unknown,0
+6755,True,Lightning,Mild,None,NWA & River Valley,2
+6761,False,None,None,None,Unknown,0
+6763,False,None,None,None,Winston Salem NC,0
+6768,True,Lightning,Mild,None,Unknown,2
+6770,False,None,None,None,Unknown,0
+6771,False,None,None,None,Unknown,0
+6777,False,None,None,None,Unknown,0
+6778,False,None,None,None,"Rotterdam, The Netherlands",0
+6780,False,None,None,None,Unknown,0
+6782,False,None,None,None,"Philadelphia, PA",0
+6786,True,Lightning,Mild,None,Northwest Arkansas,2
+6791,False,None,None,None,"North Carolina, USA",0
+6797,False,None,None,None,Unknown,0
+6798,False,None,None,None,"Leesburg, FL",0
+6803,False,None,None,None,"Nashville, Tenn.",0
+6805,False,None,None,None,Kenya,0
+6812,False,None,None,None,Kenya,0
+6816,False,None,None,None,Kenya,0
+6818,False,None,None,None,Kenya,0
+6822,False,None,None,None,Kenya,0
+6825,False,None,None,None,Kenya,0
+6826,False,None,None,None,Kenya,0
+6827,False,None,None,None,Kenya,0
+6829,False,None,None,None,Kenya,0
+6831,False,None,None,None,Unknown,0
+6836,False,None,None,None,Unknown,0
+6838,False,None,None,None,Unknown,0
+6840,False,None,None,None,Santa Cruz,0
+6842,False,None,None,None,Unknown,0
+6846,False,None,None,None,Kenya,0
+6851,False,None,None,None,"Detroit, Mi",0
+6853,False,None,None,None,Unknown,0
+6856,False,None,None,None,"Raleigh, North Carolina, USA",0
+6859,False,None,None,None,Unknown,0
+6865,False,None,None,None,The Three Broomsticks,0
+6866,False,None,None,None,Unknown,0
+6868,True,Bombing,Severe,Medical,Somewhere on the Earth,5
+6869,False,None,None,None,Unknown,0
+6871,True,Bombing,Severe,Medical,NYC,5
+6873,False,None,None,None,Unknown,0
+6886,False,None,None,None,Realville,0
+6887,False,None,None,None,Anonymous,0
+6888,False,None,None,None,Unknown,0
+6889,True,Bombing,Severe,Medical,"Albany, Western Australia",5
+6891,False,None,None,None,The Real World,0
+6894,False,None,None,None,Unknown,0
+6895,False,None,None,None,Unknown,0
+6899,False,None,None,None,U.S.,0
+6901,False,None,None,None,Islamabad Pakistan,0
+6902,False,None,None,None,Pedophilia,0
+6904,False,None,None,None,Unknown,0
+6906,False,None,None,None,Unknown,0
+6922,False,None,None,None,Unknown,0
+6923,False,None,None,None,Unknown,0
+6924,False,None,None,None,"Pittsburgh, PA",0
+6927,False,None,None,None,Unknown,0
+6934,False,None,None,None,"Fukushima, JAPAN",0
+6938,False,None,None,None,Unknown,0
+6941,False,None,None,None,"Denver, CO",0
+6942,False,None,None,None,england,0
+6944,False,None,None,None,Los Angeles via Pittsburgh,0
+6947,False,None,None,None,Kenya,0
+6952,False,None,None,None,Unknown,0
+6957,False,None,None,None,Unknown,0
+6958,True,Massacre,Severe,Psychological,University of Maryland,4
+6964,False,None,None,None,"Santos, SÌ£o Paulo",0
+6968,False,None,None,None,House of the Rising Sun,0
+6969,True,Massacre,Severe,Psychological,Antioch,5
+6976,True,Massacre,Severe,Psychological,Isla Vista,5
+6982,True,Massacre,Severe,Food,Wales Cymru,5
+6986,False,None,None,None,Unknown,0
+6987,True,Massacre,Severe,Medical,Unknown,5
+6989,True,Massacre,Severe,Food,"Perth, Scotland",5
+6991,False,None,None,None,Unknown,0
+6993,False,None,None,None,"Waco, Texas",0
+6995,False,None,None,None,SweizyLand,0
+6997,False,None,None,None,Ohio,0
+7000,False,None,None,None,worldwide,0
+7003,False,None,None,None,Dili. East Timor,0
+7004,False,None,None,None,"Lynchburg, VA",0
+7007,True,Bombing,Severe,Medical,"Mumbai, Maharashtra",5
+7011,False,None,None,None,"Hollywood, Ca",0
+7014,False,None,None,None,New York,0
+7016,False,None,None,None,UK,0
+7017,False,None,None,None,Unknown,0
+7020,False,None,None,None,"The Woodlands, TX",0
+7022,False,None,None,None,DMV,0
+7028,False,None,None,None,DMV,0
+7033,False,None,None,None,Central Jersey,0
+7034,True,Flood,Moderate,Shelter,California,3
+7035,False,None,None,None,"Lynchburg, VA",0
+7038,False,None,None,None,Unknown,0
+7040,False,None,None,None,Unknown,0
+7041,False,None,None,None,Boston/NY/Montreal/London,0
+7042,False,None,None,None,Iowa,0
+7045,False,None,None,None,Unknown,0
+7049,False,None,None,None,Unknown,0
+7055,False,None,None,None,Unknown,0
+7057,False,None,None,None,Wouldn't u like to know,0
+7062,False,None,None,None,Unknown,0
+7064,False,None,None,None,"North Vernon, IN",0
+7066,False,None,None,None,Unknown,0
+7067,False,None,None,None,Manisto Trap House,0
+7072,False,None,None,None,Southern California,0
+7079,False,None,None,None,"St. Catherine, Jamaica, W.I.",0
+7082,False,None,None,None,"Pittsburgh, PA",0
+7083,False,None,None,None,"Tuksa, OK",0
+7084,False,None,None,None,FL.CO.HI.NJ,0
+7085,False,None,None,None,PrincetonAve,0
+7087,False,None,None,None,Unknown,0
+7090,False,None,None,None,"West Coast, Canada",0
+7094,False,None,None,None,"Syracuse, NY",0
+7096,False,None,None,None,Abuja,0
+7099,False,None,None,None,Unknown,0
+7100,False,None,None,None,Unknown,0
+7101,False,None,None,None,Unknown,0
+7102,False,None,None,None,Unknown,0
+7103,False,None,None,None,"Boca Raton, FL",0
+7107,False,None,None,None,Unknown,0
+7110,False,None,None,None,Unknown,0
+7113,False,None,None,None,"Columbus, OH",0
+7117,False,None,None,None,Unknown,0
+7119,False,None,None,None,Unknown,0
+7123,False,None,None,None,Unknown,0
+7127,False,None,None,None,New York,0
+7133,False,None,None,None,Worldwide,0
+7139,False,None,None,None,Unknown,0
+7143,False,None,None,None,"Austin, Texas",0
+7145,False,None,None,None,Merseyside,0
+7151,True,Mudslide,Moderate,Shelter,Tajikistan,3
+7152,False,None,None,None,Unknown,0
+7153,False,None,None,None,"LaPorte, IN",0
+7156,False,None,None,None,United Kingdom,0
+7162,False,None,None,None,tarn et garonne/lot et garonne,0
+7170,False,None,None,None,1/11 numberjacks squad,0
+7172,False,None,None,None,Sandbach Cheshire UK,0
+7177,False,None,None,None,the burrow,0
+7181,False,None,None,None,"ÌÏT: 58.193556,-5.334943",0
+7182,False,None,None,None,St Albans,0
+7189,False,None,None,None,Unknown,0
+7190,False,None,None,None,Unknown,0
+7200,False,None,None,None,Unknown,0
+7207,False,None,None,None,California,0
+7209,True,Earthquake,Mild,None,Nepal,2
+7212,False,None,None,None,"USA, Haiti, Nepal",0
+7216,False,None,None,None,bishop amat,0
+7217,False,None,None,None,Ottawa,0
+7219,False,None,None,None,Unknown,0
+7220,False,None,None,None,Canberra,0
+7222,False,None,None,None,Unknown,0
+7225,False,None,None,None,U.A.E.,0
+7233,False,None,None,None,Unknown,0
+7237,True,None,None,None,Thailand,0
+7238,False,None,None,None,"Washington, DC area",0
+7239,False,None,None,"Food, Medical",Unknown,0
+7240,False,None,None,None,Unknown,0
+7243,False,None,None,None,HARDA (M.P.),0
+7245,True,Nuclear,Severe,"Medical, Shelter",Japan,5
+7246,True,Nuclear,Severe,None,Hiroshima,5
+7249,True,Nuclear,Severe,None,Japan,5
+7257,True,Nuclear,Severe,None,Fukushima,5
+7258,False,None,None,None,Japan,0
+7259,True,Nuclear,Severe,Medical,Fukushima,5
+7262,True,Nuclear,Severe,None,Japan,5
+7263,True,Nuclear,Severe,None,Fukushima,5
+7269,True,Nuclear,Severe,None,Unknown,5
+7271,True,Nuclear,Severe,None,Hiroshima,5
+7273,True,Nuclear,Severe,None,Fukushima,5
+7276,True,Nuclear,Severe,None,Fukushima,5
+7279,True,Nuclear,Severe,None,Chernobyl,5
+7282,False,None,None,None,Japan,0
+7284,False,None,None,None,"Japan, Fukushima",0
+7293,False,None,None,None,Unknown,0
+7298,False,None,None,None,Tokio / Tokyo,0
+7303,False,None,None,None,Unknown,0
+7304,False,None,None,None,Unknown,0
+7305,False,None,None,None,"Haifa, Israel",0
+7308,False,None,None,None,Finland,0
+7313,False,None,None,None,Unknown,0
+7314,False,None,None,None,Unknown,0
+7321,False,None,None,None,Unknown,0
+7322,False,None,None,None,Washington DC region,0
+7327,False,None,None,None,Unknown,0
+7333,False,None,None,None,Unknown,0
+7336,False,None,None,None,Helsinki,0
+7339,False,None,None,None,Unknown,0
+7341,False,None,None,None,"Lemon Grove, CA",0
+7346,False,None,None,None,"Orlando, FL",0
+7347,False,None,None,None,USA,0
+7349,False,None,None,None,"Cape Coral, FL USA",0
+7351,False,None,None,None,Unknown,0
+7353,False,None,None,None,Unknown,0
+7363,False,None,None,None,"Denver|Boulder|Ft. Collins, CO",0
+8333,True,Bombing,Severe,Medical,"Aleppo, Syria",5
+8336,False,None,None,None,California,0
+8338,False,None,None,None,Globally,0
+8340,False,None,None,None,55 Wall Street,0
+8342,False,None,None,None,Unknown,0
+8343,False,None,None,None,"Las Vegas, NV",0
+8353,False,None,None,None,Unknown,0
+8354,False,None,None,None,Unknown,0
+8357,False,None,None,None,Planet Earth,0
+8358,False,None,None,None,Unknown,0
+8359,False,None,None,None,"Washington, DC",0
+8373,False,None,None,None,Unknown,0
+8376,False,None,None,None,Unknown,0
+8379,False,None,None,None,Albequerque,0
+8380,False,None,None,None,Unknown,0
+8381,False,None,None,None,"Monroe, OH",0
+8384,False,None,None,None,Unknown,0
+8395,True,Sandstorm,Moderate,Shelter,USA,3
+8398,True,Sandstorm,Moderate,Shelter,Unknown,3
+8403,False,None,None,None,Unknown,0
+8407,True,Sandstorm,Moderate,Shelter,USA,3
+8413,True,Sandstorm,Moderate,Shelter,USA,3
+8417,True,Sandstorm,Moderate,Shelter,USA,3
+8420,True,Sandstorm,Moderate,Shelter,USA,3
+8421,False,None,None,None,"West Midlands, England",0
+8424,True,Sandstorm,Moderate,Shelter,USA,3
+8426,True,Sandstorm,Moderate,Shelter,United States,3
+8427,True,Sandstorm,Moderate,Shelter,USA,3
+8438,True,Sandstorm,Moderate,Shelter,USA,3
+8439,False,None,None,None,Unknown,0
+8442,False,None,None,None,Unknown,0
+8449,False,None,None,None,quantico,0
+8456,False,None,None,None,Unknown,0
+8460,False,None,None,None,"Holland,MI",0
+8462,False,None,None,None,Unknown,0
+8465,False,None,None,None,Unknown,0
+8466,False,None,None,None,fairly local,0
+8467,False,None,None,None,earth,0
+8469,False,None,None,None,Unknown,0
+8470,False,None,None,None,Unknown,0
+8474,False,None,None,None,Poland,0
+8479,False,None,None,None,Unknown,0
+8481,False,None,None,None,Unknown,0
+8482,False,None,None,None,"Rice Lake, WI/Toronto, ON",0
+8485,False,None,None,None,Unknown,0
+8488,False,None,None,None,"Atlanta, GA",0
+8492,False,None,None,None,Unknown,0
+8493,False,None,None,None,United States,0
+8495,False,None,None,None,IRELAND,0
+8499,False,None,None,None,Unknown,0
+8501,False,None,None,None,Unknown,0
+8519,False,None,None,None,Unknown,0
+8521,False,None,None,None,Unknown,0
+8525,False,None,None,None,Emirates,0
+8527,False,None,None,None,Unknown,0
+8529,False,None,None,None,moon,0
+8532,False,None,None,None,Unknown,0
+8534,False,None,None,None,Unknown,0
+8535,False,None,None,None,Texas,0
+8537,False,None,None,None,Indiana,0
+8544,False,None,None,None,Unknown,0
+8548,False,None,None,None,Unknown,0
+8549,False,None,None,None,Unknown,0
+8552,False,None,None,None,Unknown,0
+8554,False,None,None,None,Unknown,0
+8563,False,None,None,None,texas,0
+8564,False,None,None,None,Unknown,0
+8565,False,None,None,None,Unknown,0
+8566,False,None,None,None,"Nairobi, Kenya",0
+8568,False,None,None,None,Unknown,0
+8569,False,None,None,None,"North Druid Hills, GA",0
+8573,False,None,None,None,Unknown,0
+8583,False,None,None,None,Unknown,0
+8588,False,None,None,None,Unknown,0
+8590,False,None,None,None,New York,0
+8592,False,None,None,None,Unknown,0
+8593,False,None,None,None,Unknown,0
+8594,True,Terrorism,Severe,Security,Cairo,5
+8597,False,None,None,None,Unknown,0
+8600,False,None,None,None,"Gabon, Somalia",0
+8601,False,None,None,None,Malta; Gozo,0
+8602,False,Earthquake,Mild,None,San Andreas fault,1
+8603,False,None,None,None,Lancashire,0
+8604,False,None,None,None,"Calgary, Canada",0
+8605,True,Earthquake,Mild,None,"E off Chiba pref., Japan",2
+8611,False,None,None,Medical,Unknown,0
+8614,False,None,None,Medical,Worldwide,0
+8616,False,None,None,None,"Gabon, Somalia",0
+8617,True,Nuclear,Severe,Medical,Fukushima,5
+8619,True,Earthquake,Mild,None,"Okinawa Island region, JapÌ_n",2
+8626,False,None,None,None,"Calgary, Edmonton, Vancouver, Toronto",0
+8629,False,None,None,None,Unknown,0
+8630,False,None,None,None,Unknown,0
+8632,False,None,None,None,Unknown,0
+8634,False,None,None,None,"Gabon, Somalia",0
+8641,False,None,None,None,North Sea,0
+8645,True,Sinkhole,Moderate,Rescue,Arizona,3
+8649,True,Sinkhole,Mild,Water,"Evansville, IN",2
+8652,True,Sinkhole,Moderate,Rescue,"Brooklyn, USA",3
+8666,True,Sinkhole,Moderate,Rescue,"Brooklyn, NYC",3
+10635,False,None,None,None,Unknown,0
+10638,False,None,None,None,Southern Cali,0
+10639,False,None,None,None,626 - 702,0
+10642,False,None,None,None,"Gauteng Heidelberg,Ratanda",0
+10643,False,None,None,None,"Back of the beyond, Lesotho",0
+10645,True,Bombing,Severe,Medical,CLT via NOLA via MO via MN,4
+10646,False,None,None,None,India,0
+10649,False,None,None,None,Northwest (USA),0
+10652,True,Bombing,Moderate,Medical,West Bank,3
+10653,False,None,Mild,Medical,Vancouver,1
+10654,False,None,None,None,K-Town,0
+10661,True,Bombing,Moderate,Medical,Kashmir,3
+10664,True,Bombing,Moderate,Medical,Unknown,3
+10668,False,None,None,None,sam's town,0
+10670,False,None,None,None,Unknown,0
+10674,False,None,Mild,Medical,"Dallas, TX",1
+10683,False,None,None,None,worldwide,0
+10694,False,None,None,None,"atl, ga",0
+10697,False,None,None,None,"San Antonio, TX",0
+10699,False,None,None,None,"Jackson, MS",0
+10701,False,None,None,None,probably in hell,0
+10703,False,None,None,None,"Columbus, OH",0
+10713,False,None,None,None,Unknown,0
+10714,True,Wreck,Moderate,Medical,AL,3
+10716,False,None,None,None,St. Petersburg. Fla.,0
+10717,False,None,None,None,Unknown,0
+10719,False,None,None,None,Inwood ontario,0
+10725,False,None,None,None,would rather be in my room,0
+10728,False,None,None,None,Philippians 4:13,0
+10734,False,None,None,None,"Pennsylvania, USA",0
+10738,True,Wreck,Severe,SearchAndRescue,India,5
+10740,True,Wreck,Severe,SearchAndRescue,"Mumbai, Maharashtra",5
+10742,True,Wreck,Severe,SearchAndRescue,Unknown,5
+10756,True,Wreck,Severe,SearchAndRescue,Mumbai,5
+10757,True,Wreck,Severe,SearchAndRescue,RÌ©union Island,5
+10758,True,Wreck,Severe,SearchAndRescue,India,5
+10761,True,Wreck,Severe,SearchAndRescue,Mumbai,5
+10762,True,Wreck,Severe,SearchAndRescue,Canada,5
+10773,True,Wreck,Severe,SearchAndRescue,Unknown,5
+10778,True,Wreck,Severe,SearchAndRescue,Mumbai,5
+10781,True,Wreck,Severe,SearchAndRescue,Indian Ocean island,5
+10791,False,None,None,None,Sunny Southern California,0
+10792,True,Wreck,Mild,Medical,"Plymouth, England",2
+10796,False,None,None,None,Deep in the heart of LibLand,0
+10797,False,None,None,None,Unknown,0
+10801,False,None,None,None,"Canada,Ontario",0
+10804,False,None,None,None,Love Reiss,0
+10806,False,None,None,None,Seattle Washington,0
+10807,False,None,None,None,Acey mountain islanddåÇTorontoåÈ,0
+10816,False,None,None,None,los angeles,0
+10820,False,None,None,None,"Brussels, Belgium",0
+10828,False,None,None,None,Unknown,0
+10836,True,EbolaOutbreak,Moderate,Medical,Birmingham Ala,3
+10838,True,Wreck,Severe,SearchAndRescue,Unknown,5
+10845,True,EbolaOutbreak,Moderate,Medical,Alabama,3
+10856,True,Bombing,Severe,Medical,Turkey,4
+10857,True,Wreck,Moderate,Transportation,airport,3
+10858,True,Bombing,Severe,Medical,"Village of Rajman, Hasaka",5
+10861,True,Earthquake,Mild,Shelter,Los Angeles,2
+10865,True,Storm,Severe,Power,RI,4
+10868,True,Wreck,Moderate,Transportation,Chicago,3
+10874,True,Storm,Mild,Shelter,Unknown,2
+10875,True,Storm,Moderate,Shelter,CityofCalgary,3
+975,False,None,None,None,"Newburgh, NY",0
+980,False,None,None,None,"New Bedford, MA",0
+988,False,None,None,None,Paradise,0
+989,False,None,None,None,Outer Rim,0
+995,False,None,None,None,"California, USA",0
+1000,False,None,None,None,bkk,0
+1003,False,None,None,None,nan,0
+1007,False,None,None,None,nan,0
+1011,False,None,None,None,ZIKKO'S HQ,0
+1012,False,None,None,None,"West Hollywood, CA",0
+1013,True,Fire,Moderate,Medical,Unknown,3
+1014,False,None,None,None,"Crawley, England",0
+1016,True,Fire,Severe,Medical,Northern California,5
+1019,False,None,None,None,"Montreal,QC",0
+1025,False,None,None,None,"Intramuros, Manila",0
+1027,False,None,None,None,Your screen,0
+1028,True,Fire,Moderate,Medical,California,3
+1030,False,None,None,None,"Dublin,Ireland",0
+1033,False,None,None,None,Nepal,0
+1034,False,None,None,None,Mass,0
+1039,False,None,None,None,nan,0
+1046,False,None,None,None,"London, England",0
+1047,False,None,None,None,Sherbrooke & MontrÌ©al,0
+1053,False,None,None,None,"Northeast, Ohio",0
+1055,False,None,None,None,Orlando,0
+1056,False,None,None,None,"Louisville, KY",0
+1059,False,None,None,Medical,Outworld,0
+1060,False,None,Mild,Medical,Terre Haute,1
+1063,False,None,None,Medical,nan,0
+1064,False,None,None,None,psalms 27:1,0
+1068,False,None,None,None,slytherin,0
+1076,False,None,None,None,"Windy City, Land of the Snakes",0
+1086,False,None,None,None,Unknown,0
+1087,False,None,None,None,"Chicago, IL",0
+1089,False,None,None,None,Oh,0
+1092,False,None,None,None,indiana,0
+1095,False,None,None,None,nan,0
+1096,False,None,None,None,cucumber squad,0
+1097,False,None,None,None,nan,0
+1100,False,None,None,None,8.27.14 & 7.28.15,0
+1101,False,None,None,None,she/her,0
+1107,False,Bombing,Severe,"Medical, Psychological",nan,5
+1108,False,None,None,None,nan,0
+1111,False,None,None,None,Texas,0
+1115,False,None,None,None,"Coos Bay, OR",0
+1116,False,None,None,None,nan,0
+1121,False,None,None,None,Romans 1:16,0
+1125,False,None,None,None,Your Girl's Pussy,0
+1127,False,None,None,None,twitch.tv/dgn_esports,0
+1131,False,None,None,None,Memphis,0
+1133,False,None,None,None,nan,0
+1135,False,None,None,None,"Cleveland, Ohio",0
+1137,False,None,None,None,"Eldora, IA",0
+1140,False,None,None,None,nan,0
+1144,False,None,None,None,"Bridgetown, Barbados",0
+1147,False,None,None,None,"Stamford, CT",0
+1148,False,None,None,None,"Columbus, Ohio",0
+1150,False,None,None,None,"Philadelphia, PA",0
+1158,False,None,None,None,nan,0
+1159,False,None,None,None,"Upper Dicker, England",0
+1161,False,None,None,None,centre of attention,0
+1163,False,None,None,None,Connecticut,0
+1165,False,None,None,None,Highlands Ranch CO,0
+1169,False,None,None,None,The other side of the mirror,0
+1171,False,None,None,None,Metro Detroit,0
+1172,False,None,None,None,"Baltimore, MD",0
+1176,False,None,None,None,Sporting capital of the World,0
+1180,False,None,None,None,nan,0
+1184,False,None,None,None,United States,0
+1186,False,None,None,None,mn,0
+1187,False,None,None,None,St. Charles MO,0
+1192,False,None,None,None,Sunny Florida,0
+1193,False,None,None,None,nan,0
+1194,False,None,None,None,nan,0
+1197,False,None,None,None,New York,0
+1200,False,None,None,None,St. Charles MO,0
+1205,False,None,None,None,Unknown,0
+1210,False,None,None,None,Unknown,0
+1216,False,None,None,None,Unknown,0
+1220,False,None,None,None,Florida,0
+1231,False,None,None,None,Unknown,0
+1233,False,None,None,None,"Edwardsville, IL",0
+1246,False,None,None,None,Unknown,0
+1247,False,None,None,None,Unknown,0
+1248,False,None,None,None,The Land of Pleasant Living,0
+1255,False,None,None,None,Crescent Moon w/ Wook,0
+1256,False,None,None,None,"St Marys, OH",0
+1257,False,None,None,None,305 but I'm So St. Louis...,0
+1258,False,None,None,Medical,"Williamsport, PA",0
+1260,False,None,None,None,"Quezon City, National Capital Region",0
+1261,False,None,None,None,XIX | 5SOS | Ed Sheeran |,0
+1265,False,None,None,None,Unknown,0
+1266,False,None,None,None,Unknown,0
+1268,False,None,None,None,Unknown,0
+1274,False,None,None,None,Puerto Rico,0
+1281,False,None,None,None,Waiheke Island,0
+1285,False,None,None,None,Singapore,0
+1286,False,None,None,None,Unknown,0
+1291,False,None,None,None,Unknown,0
+1292,False,None,None,None,Northampton,0
+1635,True,Bombing,Severe,Medical,"Tokyo JAPAN, Hiroshima",5
+1640,True,Bombing,Severe,Medical,"Philippines, Hiroshima",5
+1641,True,Bombing,Severe,Medical,"South East Asia, Hiroshima",5
+1642,True,Bombing,Severe,Medical,"London, Hiroshima",5
+1651,True,Bombing,Severe,Medical,Hiroshima,5
+1655,True,Bombing,Severe,Medical,"Philippines, Hiroshima",5
+1656,True,Bombing,Severe,Medical,"Kill Devil Hills, Hiroshima",5
+1659,True,Bombing,Severe,Medical,"Derbyshire, England, Hiroshima",5
+1664,True,Bombing,Severe,Medical,"Philippines, Hiroshima",5
+1667,True,Bombing,Severe,Medical,Hiroshima,5
+1668,True,Bombing,Severe,Medical,"Earth, Hiroshima",5
+1674,False,None,None,None,"London, United Kingdom, Trent Bridge",0
+1678,False,None,None,None,Saint-Petersburg,0
+1680,True,Bridge Collapse,Moderate,Medical,Unknown,3
+1681,True,Bridge Collapse,Moderate,Shelter,"Nigeria, Oworoshoki Third mainland bridge",4
+1682,True,Bridge Collapse,Moderate,None,"New York City, Mpls/St. Paul, Minneapolis",3
+1685,False,None,None,None,"India, Trent Bridge",0
+1695,True,Bridge Collapse,Moderate,Medical,Unknown,3
+1696,True,Bridge Collapse,Moderate,None,Minneapolis St. Paul Minnesota,3
+1697,False,None,None,None,Unknown,0
+1704,False,None,None,None,Trent Bridge,0
+1708,False,None,None,None,"manchester, UK, Trent Bridge",0
+1711,True,Bridge Collapse,Moderate,Medical,Mexico,4
+1713,False,None,None,None,Trent Bridge,0
+1714,False,None,None,None,"United Kingdom, Trent Bridge",0
+1717,True,Bridge Collapse,Moderate,Medical,Swiss,3
+1729,False,None,None,None,"Liverpool, England",0
+1730,False,None,None,None,Unknown,0
+1732,False,None,None,None,Unknown,0
+1734,False,None,None,None,Unknown,0
+1736,False,None,None,None,Unknown,0
+1738,False,None,None,None,Las Baegas,0
+1742,False,None,None,None,Unknown,0
+1743,False,None,None,None,Unknown,0
+1746,False,None,None,None,Rochester NY,0
+1748,True,Fire,Moderate,Firefighting,"Port Coquitlam, BC",3
+1749,False,None,None,None,New Jersey,0
+1751,False,None,None,None,Cin City,0
+1758,False,None,None,None,Unknown,0
+1764,True,Fire,Moderate,Firefighting,"Antioch, CA",3
+1765,False,None,None,None,US of Eh,0
+1777,False,None,None,None,Wellington,0
+1778,False,None,None,None,"Tempe, Arizona",0
+1781,False,None,None,None,Unknown,0
+1782,False,None,None,None,Unknown,0
+1783,True,Fire,Moderate,Firefighting,Unknown,3
+1785,False,None,None,None,Fallen TX,0
+1788,True,Fire,Severe,Firefighting,"Hinton, OK",4
+1793,True,Bombing,Severe,"Medical, Shelter",Gorlovka,5
+1794,True,Fire,Moderate,Firefighting,"Groton, CT",3
+1795,True,Bombing,Severe,"Medical, Shelter",Taiz - YEMEN,5
+1797,True,Fire,Moderate,Firefighting,Niceville,3
+1800,True,Fire,Moderate,Firefighting,Manchester,3
+1801,True,Fire,Moderate,Firefighting,Aldwark - NYorks,3
+1805,True,Fire,Moderate,Medical,Manchester NH,3
+1806,True,Fire,Severe,Firefighting,"Hinton, OK",4
+1819,True,Fire,Moderate,None,Melbourne,3
+1820,True,Fire,Moderate,Firefighting,"Kalispell, Montana",3
+1825,True,Fire,Moderate,"Shelter, Food, Clothing","Nellis & Cheyenne, Las Vegas, NV",3
+1828,False,None,None,Medical,Unknown,0
+1829,False,None,None,None,557619,0
+1830,False,None,None,None,"Dallas, Texas",0
+1839,True,Bombing,Severe,None,Poyth WesssterrrnnOystrayahhh,5
+1843,False,None,None,None,Unknown,0
+1844,False,None,None,None,Indiana,0
+1846,False,None,None,None,"St. Louis, MO",0
+1849,False,None,None,None,Unknown,0
+1850,False,None,None,None,"Indianapolis, IN",0
+1854,False,None,None,Medical,"Ecruteak City, Johto",0
+1855,False,None,None,None,"Ann Arbor, MI",0
+1858,False,None,None,None,"North Bellmore, NY",0
+1859,False,None,None,Medical,"Hutchinson, MN",0
+1862,False,None,None,None,"New Jersey, USA",0
+1867,False,None,None,None,Unknown,0
+1868,False,None,None,None,NYC ?? PA,0
+1871,False,None,None,None,mumbai,0
+1872,False,None,None,Medical,"Pasadena, CA",0
+1874,False,Flood,Moderate,"Shelter, Food, Water","Conover, NC",3
+1876,False,None,None,Medical,Unknown,0
+1879,False,None,None,None,SoCal,0
+1884,False,None,None,None,Unknown,0
+1891,False,None,None,None,Los Angeles/ Las Vegas/ Boston,0
+1894,False,None,None,None,gateway regional hs,0
+1896,False,None,None,None,Unknown,0
+1902,True,Fire,Moderate,Firefighting,CA,3
+1903,False,None,None,None,Unknown,0
+1904,False,None,None,None,"TÌÁchira, Venezuela",0
+1906,False,None,None,None,London,0
+1907,False,None,None,None,faisalabad,0
+1912,False,None,None,Medical,"Detroit, MI",0
+1913,False,None,None,None,Unknown,0
+1923,False,None,None,None,Seattle,0
+1926,False,None,None,None,"Austin Texas, Ontario Canada",0
+1928,False,None,None,None,"Epic City, BB",0
+1930,True,Fire,Moderate,Firefighting,"Antioch, CA",3
+1931,False,None,None,None,"Dublin City, Ireland",0
+1934,False,None,None,None,SW London (RBK),0
+1936,False,None,None,None,Unknown,0
+1944,True,Fire,Severe,Firefighting,"Rocky Fire, CA",4
+1946,False,None,None,None,Unknown,0
+2276,True,Landslide,Moderate,Rescue,China,3
+2283,False,None,None,None,Unknown,0
+2287,True,Cliff Fall,Mild,Rescue,Shaldon,2
+2290,False,None,None,None,"Twin Cities, MN",0
+2291,False,None,None,None,Unknown,0
+2293,False,None,None,None,Unknown,0
+2295,False,None,None,None,Unknown,0
+2302,True,Landslide,Mild,None,Unknown,2
+2305,False,None,None,None,"Memphis, TN",0
+2310,False,None,None,None,Greece,0
+2313,True,Collapse,Mild,Medical,Unknown,2
+2316,True,Collapse,Mild,Medical,Narbin city,2
+2320,False,None,None,None,"Leeds, England, United Kingdom",0
+2322,False,None,None,None,Los Angeles,0
+2323,True,Collapse,Moderate,Repair,El Paso,3
+2326,False,None,None,None,burger king with usher,0
+2328,False,None,None,None,Greece,0
+2331,False,None,None,None,Russia,0
+2335,True,Building Collapse,Severe,Rescue,Thane,4
+2338,False,None,None,None,Los Angeles,0
+2343,False,None,None,None,Earth,0
+2344,True,Collapse,Mild,Medical,Batam,2
+2345,False,None,None,None,Chicago IL,0
+2353,False,None,None,None,Greece,0
+2355,False,None,None,None,"Cramerton, NC",0
+2357,False,None,None,None,San Antone,0
+2360,True,Collapse,Severe,None,"Minneapolis, MN",4
+2365,False,None,None,None,Unknown,0
+2369,False,None,None,None,Unknown,0
+2371,True,Collapse,Moderate,Shelter,Unknown,3
+2378,False,None,None,Medical,Unknown,0
+2380,True,Fire,Moderate,Firefighting,"Eugene, OR.",3
+2381,False,None,None,None,"EVERYWHERE, USA",0
+2383,True,Storm,Mild,None,"Huntsville, AL",2
+2384,False,None,None,None,"Jersey City, NJ",0
+2392,True,Death,Severe,Medical,Unknown,5
+2393,False,None,None,None,Hong Kong,0
+2401,True,Collapse,Moderate,Medical,Tampa Bay,3
+2403,False,None,None,Medical,Unknown,0
+2404,False,None,None,None,"Conway, AR",0
+2405,False,None,None,None,Unknown,0
+2407,False,None,None,None,Unknown,0
+2411,False,None,None,None,Unknown,0
+2424,False,None,None,None,Unknown,0
+2426,False,None,None,None,"Lehigh Acres, FL",0
+2431,False,None,None,None,Unknown,0
+2433,False,None,None,None,Unknown,0
+2434,False,None,None,None,#IzzoWorld,0
+2436,False,None,None,None,"Capital Federal, Argentina",0
+2439,False,None,None,None,Unknown,0
+2444,False,None,None,None,Canada,0
+2447,False,None,None,None,Unknown,0
+2448,False,None,None,None,INEQUITY  IS  INJUSTICE || NJ,0
+2449,False,None,None,None,New York,0
+2450,False,None,None,None,Unknown,0
+2461,False,None,None,None,Islamabad,0
+2469,False,None,None,None,Unknown,0
+2472,False,None,None,None,Unknown,0
+2473,False,None,None,None,Unknown,0
+2474,False,None,None,None,Unknown,0
+2477,False,None,None,Medical,England,0
+2481,True,Collision,Moderate,None,Honshu,3
+2484,True,Accident,Mild,Medical,"Wellington, FL",2
+2495,False,None,None,None,Unknown,0
+2503,False,None,None,None,Unknown,0
+2509,True,Collision,Moderate,Medical,I-40 mile marker 118,3
+2511,True,Collision,Mild,Medical,Denver,2
+2518,True,Collision,Mild,Medical,Denver Colorado,2
+2522,True,Collision,Mild,Medical,Florin Rd at Franklin Blvd South Sac,2
+2525,True,Collision,Mild,Medical,Denver,2
+2526,False,None,None,None,Unknown,0
+2529,True,Collision,Mild,Medical,Marin Sr37 / Sr121,2
+2533,True,Collision,Mild,Medical,Riverside I15 N Sr91 E Con / I15 N Sr91 W Con,2
+2549,False,None,None,None,Mumbai,0
+2551,False,None,None,None,"USA , AZ",0
+2558,True,Crash,Severe,Medical,Somewhere in the Canada,4
+2562,True,Crash,Mild,None,Billings,2
+2563,True,Death,Severe,Medical,Wamberal,5
+2567,True,Crash,Mild,None,"Austin, TX",2
+2574,True,Crash,Severe,Medical,India,4
+2577,False,None,None,None,PPCC,0
+2578,False,None,None,None,The Open road!,0
+2580,False,None,None,None,Unknown,0
+2581,False,None,None,None,"Ponyville,Equestria",0
+2583,True,Theft,Mild,Police,Killeen,2
+2584,False,None,None,None,Unknown,0
+2586,True,Crash,Mild,None,Vancouver,2
+2589,True,Crash,Mild,Medical,Fairport Nine,2
+2595,False,None,None,None,Unknown,0
+2596,False,None,None,None,Los Angeles,0
+2600,True,Crash,Mild,Medical,Bordentown,2
+2601,False,None,None,None,"Indian Trail, North Carolina",0
+2607,False,None,None,None,Unknown,0
+2610,True,Accident,Mild,Medical,Unknown,2
+2613,False,None,None,None,Arizona,0
+2615,True,Accident,Mild,None,Unknown,2
+2618,False,None,None,None,Kentucky,0
+2620,False,None,None,None,"Pleasantville, NY",0
+2623,True,Crash,Moderate,None,Estados Unidos,3
+2626,False,None,None,None,Unknown,0
+2630,False,None,None,None,London,0
+2634,True,Crash,Severe,"Rescue, Medical",Arlington VA (DC Area),5
+2636,True,Crash,Moderate,"Rescue, Medical",Pakistan,4
+2638,True,Crash,Mild,None,"Ventura, CA",2
+2639,True,Crash,Moderate,"Rescue, Medical","Mansehra, Pakistan",4
+2646,False,None,None,None,USA,0
+2650,True,Crash,Severe,"Rescue, Medical","Mansehra, Swat Pakistan",5
+2652,False,None,None,None,Edinburgh/ West Yorkshire,0
+2653,False,None,None,None,"Boston, MA",0
+2654,False,None,None,None,Unknown,0
+2662,False,None,None,None,Unknown,0
+2665,False,None,None,None,?illinois?,0
+2669,False,None,None,None,Unknown,0
+2674,False,None,None,None,Dreamville | Hoolagan,0
+2678,False,None,None,None,USA,0
+2681,False,None,None,None,"Baltimore, MD",0
+2685,False,None,None,None,Unknown,0
+2686,False,None,None,None,Unknown,0
+2690,False,None,None,None,Unknown,0
+2697,False,None,None,None,Unknown,0
+2699,False,None,None,None,"MNL, Philippines",0
+2704,False,None,None,None,Unknown,0
+2705,False,None,None,None,"Lawn, PA",0
+2710,False,None,None,None,"NoPa, San Francisco",0
+2712,False,None,None,None,Florida,0
+2713,False,None,None,None,Unknown,0
+2716,False,None,None,None,"Motown, WV",0
+2717,False,None,None,None,Bangalore,0
+2718,False,None,None,None,Unknown,0
+2721,False,None,None,None,Unknown,0
+2722,False,None,None,None,Unknown,0
+2735,False,None,None,None,"Fredericton, NB",0
+2737,False,None,None,None,"Atlanta, GA",0
+2738,False,None,None,None,Unknown,0
+2742,False,None,None,None,"Ottawa, ON, Canada",0
+2745,False,None,None,None,Unknown,0
+2746,False,None,None,None,"Piscataway, NJ",0
+2747,False,None,None,None,FL/NJ,0
+2750,False,None,None,None,Unknown,0
+2751,False,None,None,None,"Hodesto, Cuntlifornia",0
+2754,False,None,None,None,Jammu Kashmir,0
+2762,False,None,None,None,"Lufkin.Texas,USA",0
+2764,False,None,None,None,Mississauga,0
+2772,False,None,None,None,Unknown,0
+2775,False,None,None,None,Ohio land of no sun,0
+2776,False,None,None,None,Nor Cal,0
+2779,False,None,None,None,Unknown,0
+2781,False,None,None,None,Unknown,0
+2789,False,None,None,None,Unknown,0
+2790,False,None,None,None,Waraq,0
+2791,False,None,None,None,"Winchester, UK",0
+2798,False,None,None,None,Unknown,0
+2800,False,None,None,None,Unknown,0
+2804,False,None,None,None,"Miami, FL",0
+2805,False,None,None,None,United Kingdom,0
+2806,False,None,None,None,Unknown,0
+2809,True,Cyclone,Moderate,Shelter,"Melbourne, Australia",3
+2810,True,Cyclone,Mild,Shelter,"Comox Valley Courtenay, BC Skye",2
+2812,False,None,None,None,NYC,0
+2814,True,Cyclone,Severe,Shelter,"Quezon City, PHILIPPINES",5
+2816,False,None,None,None,"Brooklyn, NY Coney Island",0
+2818,True,Cyclone,Moderate,Shelter,Sittwe,3
+2823,False,None,None,None,"Seoul, Republic of Korea",0
+2824,True,Cyclone,Mild,None,"Vineland, NJ, USA",2
+2834,True,Cyclone,Mild,None,Unknown,2
+2837,False,None,None,None,United Kingdom,0
+2840,False,None,None,None,"Manchester, England",0
+2845,True,Cyclone,Severe,Shelter,Unknown,5
+2847,True,Cyclone,Severe,Shelter,China Northern Mariana Islands,5
+2848,False,None,None,None,"Mansfield, Ohio Shelby",0
+2850,False,None,None,None,Unknown,0
+2859,False,None,None,None,"Denver, CO",0
+2862,False,None,None,None,Unknown,0
+2868,True,Flood,Moderate,Financial,Downtown New York,3
+2874,False,None,None,None,"Toronto, Ontario, Canada",0
+2876,False,None,None,None,Queens,0
+2892,False,None,None,None,BGSU,0
+2894,True,Vandalism,Mild,Financial,USA Alpine city park,2
+2897,False,None,None,None,"California, USA",0
+2901,False,None,None,None,Buzz City,0
+2903,False,None,None,None,Atlanta Georgia,0
+2904,False,None,None,None,Unknown,0
+2906,False,None,None,None,outer space,0
+2914,False,None,None,None,Unknown,0
+2918,False,None,None,None,Unknown,0
+2919,False,None,None,None,"Trujillo, Peru",0
+2923,False,None,None,Medical,Unknown,0
+2926,False,None,None,None,"Huntington Beach, CA",0
+2928,False,None,None,None,Unknown,0
+2930,False,None,None,None,Leeds,0
+2938,False,None,None,None,Unknown,0
+2940,True,Health,Moderate,Medical,N 32å¡39' 0'' / W 97å¡16' 0'',3
+2949,False,None,None,None,Unknown,0
+2951,True,Health,Moderate,Medical,"Brinscall, England",3
+2958,False,None,None,None,it was yesterday :(,0
+2961,False,None,None,None,U.S.A,0
+2962,False,None,None,None,"South Carolina, USA",0
+2964,False,None,None,None,Unknown,0
+2966,False,None,None,None,"Monaghan, Ireland",0
+2967,False,None,None,None,Unknown,0
+2968,False,None,None,None,dancer - Peter Pan panto 2015,0
+2972,False,None,None,None,Unknown,0
+2977,False,None,None,None,My World,0
+2978,False,None,None,None,65 Skelmersdale Lane,0
+2979,False,None,None,None,Unknown,0
+2981,False,None,None,None,"wolverhampton, low hill",0
+2985,False,None,None,None,England,0
+2986,False,None,None,None,London,0
+2989,True,Flood,Moderate,Shelter,Nigeria Kaduna,4
+2994,False,None,None,None,Unknown,0
+2996,True,Accident,Severe,Medical,Indiana,5
+2997,False,None,None,None,Unknown,0
+2999,False,None,None,None,bristol,0
+3002,False,None,None,None,"Colwyn Bay, Wales",0
+3007,True,Disease,Severe,Medical,Unknown,5
+3008,False,None,None,None,"Death City, Nevada",0
+3017,False,None,None,None,United States of America,0
+3020,False,None,None,None,New York,0
+3024,False,None,None,Medical,Unknown,0
+3028,False,None,None,None,Unknown,0
+3031,True,Building Damage,Mild,Repair,Unknown,2
+3032,False,None,None,None,Unknown,0
+3033,False,None,None,None,Unknown,0
+3035,False,None,None,None,Unknown,0
+3040,False,None,None,None,Unknown,0
+3041,False,None,None,None,"Manchester,England",0
+3046,False,None,None,None,Unknown,0
+3050,False,None,None,None,Unknown,0
+3063,False,None,None,None,Unknown,0
+3065,False,None,None,None,In my baby with pie,0
+3067,False,None,None,None,Unknown,0
+3069,True,Crime,Severe,Legal,"Kampala, Uganda",4
+3076,False,None,None,Medical,ICO Arkansas,0
+3078,False,None,None,None,"Prague, CZ, the Planet of Fans",0
+3081,False,None,None,None,Unknown,0
+3087,True,Bombing,Severe,Medical,UAE,5
+3088,True,Health,Severe,Medical,"Georgetown,Guyana",4
+3094,True,Crime,Severe,Legal,Unknown,4
+3096,True,Accident,Moderate,Rescue,"Elko, Nevada",3
+3098,True,Crime,Severe,Legal,Unknown,4
+3103,True,Accident,Severe,SearchAndRescue,Seattle,4
+3110,True,Accident,Severe,SearchAndRescue,"Canada, Indian Ocean",4
+3113,True,Accident,Severe,SearchAndRescue,Rochester Minnesota,4
+3121,True,Accident,Severe,SearchAndRescue,"Reunion Island, Malaysian",4
+3127,True,Accident,Severe,Psychological,Eastbourne East Sussex,4
+3128,True,Accident,Severe,SearchAndRescue,Unknown,4
+3129,True,Accident,Severe,SearchAndRescue,"UK, La Reunion, Malaysia",4
+3135,True,Accident,Severe,SearchAndRescue,"La Reunion, Malaysia",4
+3143,True,Accident,Severe,SearchAndRescue,Unknown,4
+3146,True,Accident,Severe,SearchAndRescue,"Calabasas, CA",4
+3148,True,Accident,Severe,SearchAndRescue,World,4
+3149,True,Accident,Severe,SearchAndRescue,"New York, NY",4
+3151,True,Accident,Severe,SearchAndRescue,"Bristol, UK, La Reunion, Malaysia",4
+3156,False,None,None,None,Montana,0
+3160,False,None,None,None,Unknown,0
+3164,False,None,None,None,South Wairarapa/Wellington,0
+3169,False,None,None,None,"Sydney, Australia",0
+3178,False,None,None,None,"Hartford, CT",0
+3187,False,None,None,None,"West Powelton, Philadelphia",0
+3194,False,None,None,None,"Los Angeles, CA",0
+3202,False,None,None,None,Republic of Harper,0
+3203,False,None,None,Psychological,Liverpool,0
+3204,False,None,None,Psychological,Newcastle,0
+3206,True,Flood,Moderate,"Shelter, Food, Water","Toronto, Canada",3
+3207,False,None,None,None,Unknown,0
+3208,False,None,None,None,Aragua,0
+3209,True,Flood,Moderate,SearchAndRescue,"'schland, Tetovo",3
+3213,False,None,None,None,Unknown,0
+3214,False,None,None,None,Unknown,0
+3215,False,None,None,None,Unknown,0
+3220,False,None,None,None,Unknown,0
+3223,False,None,None,Psychological,Coventry,0
+3224,False,None,None,None,Unknown,0
+3226,False,None,None,None,Unknown,0
+3228,False,None,None,None,"Venice, Sweden",0
+3230,False,None,None,None,Unknown,0
+3232,False,None,None,None,Unknown,0
+3233,False,None,None,None,Unknown,0
+3234,False,None,None,None,Camberville (Bostonish),0
+3238,False,None,None,None,Unknown,0
+3246,False,None,None,None,"New York, NY",0
+3247,True,Flood,Moderate,"Shelter, Food, Water",Hyderabad,3
+3250,False,None,None,None,"Austin, wimberley",0
+3251,False,None,None,None,Unknown,0
+3254,False,None,None,None,"Nr Great Missenden, Bucks",0
+3257,True,Terrorism,Severe,Medical,"USA, Bethlehem",5
+3258,False,None,None,None,"Southend-on-Sea, England",0
+3261,False,None,None,None,Lagos,0
+3267,False,None,None,None,"Tulsa, OK, Miami",0
+3268,False,None,None,None,Global,0
+3269,False,None,None,None,"Abuja, Nigeria",0
+3271,False,None,None,None,Unknown,0
+3272,False,None,None,None,"St. Louis, MO, Napa",0
+3273,False,None,None,None,Unknown,0
+3279,False,None,None,None,Unknown,0
+3290,False,None,None,None,The North,0
+3291,False,None,None,None,Unknown,0
+3293,False,None,None,None,"Garland, Texas",0
+3294,False,None,None,None,Unknown,0
+3298,False,None,None,None,Unknown,0
+3305,True,Demolition,Moderate,"Shelter, Legal aid",Palestinian village,3
+3306,False,None,None,None,Bluff Creek,0
+3307,False,None,None,None,Unknown,0
+3310,False,None,None,None,Unknown,0
+3313,False,None,None,None,HTX,0
+3314,False,None,None,None,Unknown,0
+3315,False,None,None,None,"Pridelands, IN",0
+3316,False,None,None,None,Unknown,0
+3321,True,Demolition,Moderate,"Shelter, Legal aid",Hebron,3
+3325,False,None,None,None,"Connecticut, USA",0
+3326,False,None,None,None,Unknown,0
+3327,False,None,None,None,Ankeny,0
+3330,True,"Kidnap, Demolition",Moderate,"Shelter, Legal aid",Hebron,3
+3331,True,Demolition,Moderate,Legal aid,"Uttarakhand, India",3
+3332,False,None,None,None,Unknown,0
+3333,False,None,None,None,Melbourne,0
+3343,False,None,None,None,"Bolton, England",0
+3344,False,None,None,None,Unknown,0
+3348,False,None,None,None,Connecticut,0
+3349,False,None,None,None,Unknown,0
+3350,False,None,None,None,Unknown,0
+3352,False,None,None,None,Unknown,0
+3353,False,None,None,None,Ohio,0
+3354,False,None,None,None,Unknown,0
+3358,True,Flood,Mild,Infrastructure Repair,"San Diego, CA",2
+3360,True,Demolition,Moderate,None,Israel,3
+3366,False,None,None,None,"Carthage, OH",0
+3371,False,None,None,None,Canberra,0
+3374,True,Demolition,Moderate,Shelter,Achimota Mile 7,3
+3375,False,None,None,None,New York,0
+3378,False,None,None,None,Flint Michigan,0
+3382,False,None,None,None,Seattle,0
+3384,False,None,None,None,Unknown,0
+3385,True,Demolition,Mild,Shelter,Unknown,2
+3386,False,None,None,None,"Tennessee, USA",0
+3392,False,None,None,None,Seattle,0
+3399,False,None,None,None,OU_Football stadium,0
+3407,False,None,None,None,Unknown,0
+3409,False,None,None,None,Unknown,0
+3416,True,Derailment,Moderate,Medical,"Madhya Pradesh, India",3
+3420,False,None,None,None,Cheltenham,0
+3422,True,Derailment,Moderate,Medical,Madhya Pradesh,3
+3424,False,None,None,None,Unknown,0
+3426,True,Derailment,Mild,Medical,Washington D.C.,2
+3427,False,None,None,None,Unknown,0
+3434,False,None,None,None,Unknown,0
+3438,False,None,None,None,Unknown,0
+3441,False,None,None,None,Unknown,0
+3442,False,None,None,None,"Accrington, Lancashire",0
+3443,False,None,None,None,"Washington, DC",0
+3444,False,None,None,None,Washington DC,0
+3449,False,None,None,None,Unknown,0
+3453,True,Derailment,Mild,None,Smithsonian,2
+3454,False,None,None,None,Las Vegas,0
+3456,True,Derailment,Mild,None,Washington,2
+3457,True,Derailment,Mild,None,"Washington, DC",2
+3458,True,Derailment,Mild,None,"Smithsonian Metro, District of Columbia",2
+3461,True,Derailment,Mild,None,Unknown,2
+3467,True,Derailment,Mild,None,"Waterloo, Ontario, Canada",2
+3479,False,None,None,None,"st. louis, missouri",0
+3488,True,Derailment,Mild,None,"Washington, DC",2
+3491,True,Derailment,Mild,None,"Alexandria, VA",2
+3496,True,Derailment,Mild,None,Smithsonian station,2
+3502,False,None,None,None,Australia,0
+3507,True,Derailment,Severe,Medical,India,5
+3511,True,Derailment,Mild,None,"Chicago, IL",2
+3515,True,Derailment,Moderate,Medical,Madhya Pradesh,3
+3516,True,Derailment,Mild,None,"Chicago, IL",2
+3538,True,Derailment,Mild,None,Chicago,2
+3539,True,Derailment,Moderate,Medical,Harda,3
+3541,True,Derailment,Mild,None,Unknown,2
+3545,True,Derailment,Mild,None,Unknown,2
+3546,True,Derailment,Moderate,Medical,Madhya Pradesh,3
+3547,True,Derailment,Moderate,Medical,Unknown,3
+3551,True,Derailment,Moderate,Medical,"Madhya Pradesh, India",3
+3553,False,None,None,None,Tampa,0
+3556,False,None,None,None,"Twin Falls, Idaho",0
+3558,False,None,None,None,Unknown,0
+3559,False,None,None,None,Unknown,0
+3561,False,None,None,None,Unknown,0
+3562,False,None,None,None,Texas,0
+3563,False,None,None,None,Unknown,0
+3564,False,None,None,None,Chicago,0
+3571,False,None,None,None,Harlem,0
+3574,False,None,None,None,Cardiff,0
+3576,False,None,None,None,Unknown,0
+3577,False,None,None,None,Outreach Africa,0
+3579,True,Abuse,Severe,Medical,Macclesfield,5
+3580,False,None,None,None,Florida,0
+3586,False,None,None,None,Birmingham,0
+3590,False,None,None,None,"Los Angeles, CA",0
+3599,False,None,None,None,"Raleigh, NC",0
+3600,False,None,None,None,Unknown,0
+3601,False,None,None,None,Unknown,0
+3605,False,None,None,None,"Roanoke, VA",0
+3606,False,None,None,None,Unknown,0
+3612,False,None,None,None,"USA,Washington,Seattle",0
+3614,False,None,None,None,Unknown,0
+3615,False,None,None,None,Quezon City,0
+3616,False,None,None,None,"Medford, NJ",0
+3942,False,None,None,None,"Toronto, Ontario",0
+3943,False,None,None,None,Unknown,0
+3946,False,None,None,None,Unknown,0
+3963,False,None,None,None,"Memphis, TN",0
+3965,False,None,None,None,Unknown,0
+3966,False,None,None,None,Unknown,0
+3971,False,None,None,None,Unknown,0
+3972,False,None,None,None,Hiroshima and Nagasaki,0
+3974,False,None,None,None,Unknown,0
+3976,False,None,None,None,Washington,0
+3978,False,None,None,None,Polska,0
+3981,False,None,None,None,"Fort Worth, TX",0
+3985,True,Economic,Moderate,Financial Aid,Argentina,3
+3986,False,None,None,None,Unknown,0
+3987,True,Flood,Moderate,Shelter,Gilgit-Baltistan,4
+3988,False,None,None,None,Japan,0
+3991,False,None,None,None,Japan,0
+3999,True,Natural Disasters,Moderate,Relief Support,Nepal,3
+4001,False,None,None,None,Unknown,0
+4002,False,None,None,None,W. Lafayette,0
+4004,False,None,None,None,"UiTM, Shah Alam",0
+4007,False,None,None,None,Unknown,0
+4009,False,None,None,None,Unknown,0
+4013,False,None,None,None,London,0
+4015,False,None,None,None,Unknown,0
+4016,False,None,None,None,Ottawa,0
+4023,False,None,None,None,Unknown,0
+4031,False,None,None,None,Unknown,0
+4035,True,Oil Spill,Severe,Environmental,Deepwater Horizon,5
+4036,False,None,None,None,Unknown,0
+4037,False,None,None,None,NYC/LI/NJ/LHV,0
+4040,True,Drowning,Severe,Medical,Mediterranean,5
+4048,True,Heat Wave,Moderate,Medical,Gazans,3
+4053,True,Genocide,Severe,Shelter,Unknown,5
+4056,True,Genocide,Severe,Shelter,Unknown,5
+4059,False,None,None,None,SF,0
+4066,True,Flood,Moderate,Shelter,Myanmar,3
+4067,True,Theft,Mild,Food,Unknown,1
+4069,False,None,None,None,"Nottingham, England",0
+4070,False,None,None,None,"Indianapolis, IN",0
+4071,False,None,None,None,NYC,0
+4073,True,Genocide,Severe,Shelter,Sittwe,5
+4074,False,None,None,None,Unknown,0
+4075,True,Fire,Moderate,Shelter,USA,3
+4082,True,Genocide,Severe,Shelter,Unknown,5
+4090,False,None,None,None,Unknown,0
+4099,False,None,None,None,Unknown,0
+4102,True,Drought,Mild,Food,SE Texas,2
+4106,False,None,None,None,"Cary, North Carolina",0
+4109,True,Drought,Mild,Water,El Monte,2
+4110,True,Drought,Moderate,Food,Midwest,3
+4115,False,None,None,None,Windsor ??CT,0
+4118,False,None,None,None,Portugal-Spain-Indonesia,0
+4120,True,Drought,Moderate,Water,Marion/Harrison Counties,3
+4125,False,None,None,None,Unknown,0
+4126,False,None,None,None,Unknown,0
+4130,True,Drought,Moderate,Water,North Thompson,3
+4134,False,None,None,None,Unknown,0
+4136,False,None,None,None,California,0
+4137,False,None,None,None,Unknown,0
+4144,False,None,None,None,"Rock Hill, SC",0
+4148,False,None,None,None,#NAME?,0
+4151,False,None,None,None,Unknown,0
+4155,False,None,None,Medical,Unknown,0
+4162,False,None,None,None,Unknown,0
+4165,False,None,None,None,England UK,0
+4169,False,None,None,None,Unknown,0
+4174,False,None,None,None,Unknown,0
+4179,False,None,None,None,Unknown,0
+4185,False,None,None,None,Unknown,0
+4186,False,None,None,None,Unknown,0
+4187,False,None,None,None,Unknown,0
+4188,False,None,None,None,"Manhattan, New York",0
+4190,False,None,None,None,Unknown,0
+4192,False,None,None,None,"Austin, TX",0
+4193,False,None,None,None,"Bogotá, Colombia",0
+4194,False,None,None,None,Unknown,0
+4195,False,None,None,None,Unknown,0
+4196,False,None,None,None,Unknown,0
+4207,True,Drowning,Severe,Medical,Libya,5
+4208,True,Drowning,Severe,Medical,Mediterranean,5
+4215,True,Drowning,Severe,Medical,Libya,5
+4217,True,Drowning,Severe,Medical,Libya,5
+4222,False,None,None,None,MA,0
+4223,True,Drowning,Severe,Medical,Libya,5
+4226,False,None,None,None,Unknown,0
+4228,False,None,None,None,Unknown,0
+4229,False,None,None,None,Unknown,0
+4231,True,Drowning,Severe,Medical,Libya,5
+4234,False,None,None,None,Unknown,0
+4236,False,None,None,None,Unknown,0
+4249,False,None,None,Medical,"Johnstown, NY",0
+4254,True,Drowning,Moderate,Medical,Maine,3
+4258,True,Drowning,Moderate,Medical,"Atlanta, GA",3
+4259,False,None,None,None,Unknown,0
+4263,False,None,None,None,"Morioh, Japan",0
+4267,False,None,None,Medical,Unknown,0
+4277,False,None,None,Medical,Unknown,0
+4278,False,None,None,None,Unknown,0
+4280,False,None,None,None,New York,0
+4283,False,None,None,None,Unknown,0
+4285,True,Drowning,Mild,Medical,Maine,3
+4286,True,Drowning,Mild,Medical,Maine,3
+4287,False,None,None,None,New York,0
+4290,True,Drowning,Severe,Medical,"Bangalore, India",5
+4291,False,None,None,None,"Pico Rivera, CA",0
+4294,True,Drowning,Mild,Medical,Unknown,3
+4302,False,None,None,None,Unknown,0
+4308,False,None,None,None,Unknown,0
+4310,False,None,None,None,Unknown,0
+4311,False,None,None,None,Unknown,0
+4315,True,Dust Storm,Moderate,Medical,Mtl,3
+4316,False,None,None,None,Unknown,0
+4319,False,None,None,None,"East la Mirada, CA",0
+4331,False,None,None,None,France,0
+4338,False,None,None,None,San Francisco,0
+4339,False,None,None,None,Seattle,0
+4340,True,Dust Storm,Moderate,Shelter,Australia,3
+4344,False,None,None,None,"Jeddah, Makkah Al Mukarrama",0
+4346,True,Dust Storm,Mild,Medical,Pheonix,2
+4347,True,Dust Storm,Mild,Medical,Morocco,2
+4360,True,Earthquake,Mild,None,"Hawaii, USA",2
+4364,True,Earthquake,Mild,None,Ferndale California,2
+4367,False,None,None,None,"Bay Area, California",0
+4369,True,Earthquake,Moderate,Shelter,Nepal,3
+4370,False,None,None,None,Rocky Mountains Colorado,0
+4371,True,Earthquake,Moderate,Shelter,US,3
+4380,True,Earthquake,Mild,None,Fiji Islands,2
+4386,True,Earthquake,Mild,None,Anchorage Alaska,2
+4389,True,Earthquake,Mild,None,"Ramona CA, UnitedStates",2
+4390,True,Earthquake,Mild,None,Anchorage AK UnitedStates,2
+4394,True,Earthquake,Mild,None,SICILY ITALY,2
+4399,False,None,None,None,Duel Academia,0
+4400,False,None,None,None,Here,0
+4404,False,None,None,None,Manchester,0
+4409,False,None,None,None,Manchester/Nantwich,0
+4414,False,None,None,None,Unknown,0
+4417,False,None,None,None,Here,0
+4418,False,None,None,None,Unknown,0
+4419,False,None,None,None,clearlake,0
+4420,False,None,None,None,Unknown,0
+4422,False,None,None,None,Unknown,0
+4429,False,None,None,None,"Melbourne, Australia",0
+4431,False,None,None,None,Unknown,0
+4433,False,None,None,None,Unknown,0
+4434,False,None,None,None,"Milan, Lombardy",0
+4439,False,None,None,None,Lampung Balikpapan,0
+4443,False,None,None,None,UK,0
+4446,False,None,None,None,32935,0
+4447,False,None,None,None,301|804,0
+4453,False,None,None,None,Gap,0
+4460,False,None,None,None,Unknown,0
+4461,True,Electrocution,Moderate,Medical,"South Side factory, Columbus",3
+4462,False,None,None,None,"Stone Ridge, VA",0
+4467,False,None,None,None,Staffordshire,0
+4469,True,Electrocution,Moderate,Medical,"South Side factory, Columbus, Ohio",3
+4473,True,Electrocution,Mild,Medical,hayling,2
+4474,False,None,None,None,Bikini Bottom,0
+4475,False,None,None,None,Ireland,0
+4477,False,None,None,None,Unknown,0
+4481,False,None,None,None,MNL,0
+4483,False,None,None,None,england,0
+4484,False,None,None,None,mullingar ireland,0
+4485,False,None,None,None,Unknown,0
+4495,False,None,None,None,Nap town,0
+4497,False,None,None,None,South Park,0
+4500,False,None,None,None,"New York, Brooklyn",0
+4501,False,None,None,None,USA,0
+4502,False,None,None,Food,Unknown,0
+4505,False,None,None,None,Unknown,0
+4506,False,None,None,None,Isle of Patmos,0
+4510,False,None,None,Food,New York,0
+4512,False,None,None,None,New York,0
+4513,False,None,None,Medical,"Modesto, CA, California",0
+4532,False,None,None,None,Ton's Ì¡ead town åÈ Tx,0
+4535,False,None,None,None,Unknown,0
+4536,False,None,None,None,ocsf,0
+4540,False,None,None,None,"Cincinnati, OH",0
+4545,False,None,None,None,"Las Vegas, Nevada",0
+4552,False,None,None,None,"Calgary, Canada",0
+4554,True,Storm,Moderate,Shelter,Calgary,3
+4555,False,None,None,None,Sri Lanka,0
+4558,True,Storm,Moderate,Shelter,Calgary,3
+4559,False,Drought,Mild,Water,"Paonia, Colorado, ShastaDam, Cali",1
+4560,False,None,None,None,"Tampa, Florida",0
+4566,False,None,None,None,"Houston, Texas",0
+4570,False,None,None,None,the Great White North,0
+4572,False,None,None,Water,Unknown,0
+4574,False,None,None,None,"Fishkill, NY",0
+4581,True,Storm,Moderate,Shelter,Calgary,3
+4583,True,Storm,Moderate,Shelter,Calgary,3
+4586,True,Storm,Moderate,Shelter,"Calgary, Airdrie, Okotoks",3
+4591,True,Storm,Moderate,Shelter,"Calgary, Alberta",3
+4594,False,None,None,Medical,Unknown,0
+4603,False,None,None,Animal Rescue,"Singapore, Tasmania",0
+4605,False,None,None,Medical,"CA, AZ, NV",0
+4612,True,Shark attack,Moderate,"Medical, Rescue","Ballina, New South Wales",3
+4613,False,None,None,Animal Rescue,"UK, Tasmania",0
+4615,False,None,None,None,Sunny South Africa,0
+4618,False,None,None,None,Unknown,0
+4621,False,None,None,None,"Greenwich, London",0
+4623,False,None,None,Medical,"Lansing, MI USA",0
+4626,False,None,None,None,Unknown,0
+4629,False,None,None,None,Australia,0
+4633,False,None,None,None,#ViewsAreMyOwn #IBackTheBlue,0
+4636,False,None,None,Medical,"Anchorage, AK",0
+4638,False,None,None,None,"Edmonton, Canada",0
+4640,False,None,None,Medical,Anchorage AK,0
+4643,False,None,None,Medical,"Antioch CA, California",0
+4645,False,None,None,Medical,"Issaquah, WA",0
+4647,False,None,None,Rescue,"Bodmin, Cornwall",0
+4648,False,None,None,None,Alabama,0
+4651,False,None,None,Mental health,"Hagerstown, MD",0
+4652,False,None,None,None,pittsburgh,0
+4653,False,None,None,None,Madinah,0
+4654,False,None,None,None,London,0
+4660,False,None,None,Mental health,"Berkeley, CA",0
+4662,False,None,None,Mental health,Manchester,0
+4663,False,None,None,Mental health,Newcastle,0
+4665,False,None,None,None,Unknown,0
+4668,False,None,None,None,West Baltimore,0
+4676,False,None,None,None,Unknown,0
+4683,True,Fire,Moderate,"Medical, Rescue",Parley's Canyon,3
+4685,False,None,None,None,"Hollywood, California, London",0
+4686,False,None,None,Mental health,Unknown,0
+4701,False,None,None,None,Unknown,0
+4718,False,None,None,None,Sydney - Australia,0
+4721,False,None,None,None,Unknown,0
+4727,False,None,None,None,HEAVEN,0
+4728,True,War,Moderate,Shelter,Kurdistan,3
+4733,True,Fire,Mild,None,Catalinas,2
+4741,False,None,None,None,Jordan,0
+4743,True,Bombing,Severe,Medical,"North Tower, San Diego",5
+4746,False,None,None,None,Unknown,0
+4751,False,None,Mild,None,100 Oaks Regal theater,1
+4756,True,Fire,Moderate,Shelter,Roosevelt Washington,3
+4761,False,None,None,None,"Arizona, USA",0
+4763,False,None,None,None,"Roosevelt WA, Seattle/Snohomish/Redlands",0
+4764,True,Chemical,Mild,Medical,"Grand Rapids, Mich.",2
+4767,True,Wind,Mild,None,"Orakei, Auckland",2
+4772,True,Fire,Moderate,Shelter,"Chesterfield, St. Louis",3
+4776,True,Power Outage,Mild,None,"Gold Coast, Australia",2
+4780,True,Fire,Moderate,None,"NorCal, State of Jefferson",3
+4781,True,Fire,Moderate,Shelter,"Fortitude Valley, Queensland, Australia",3
+4792,True,Weather,Mild,Shelter,Auckland NZ,2
+4796,True,Fire,Mild,None,"Roosevelt Wash., Chicagoland",2
+4801,True,Accident,Mild,Medical,"South Side, Chicago, Illinois",2
+4804,True,Bombing,Severe,Unknown,Everywhere,5
+4805,True,Fire,Moderate,Shelter,"Valley, Queensland, Australia",3
+4806,True,Fire,Severe,Shelter,"CLEARLAKE OAKS, California",4
+4811,False,None,None,None,Pelling,0
+4815,False,None,None,None,Unknown,0
+4816,False,None,None,None,Unknown,0
+4817,False,None,None,None,"MMA, Nigeria",0
+4818,False,None,None,None,"ON, Canada",0
+4822,False,None,None,None,cornwall,0
+4824,True,Hurricane,Mild,Shelter,"West Palm Beach, FL",2
+4827,False,None,None,None,"Chevy Chase, MD",0
+4837,False,None,None,None,Brisbane,0
+4838,True,Fire,Moderate,Shelter,"Roosevelt, The Dalles, Oregon",3
+4839,True,Fire,Moderate,Shelter,"Swayback Ridge Area, Mad River Complex, CA",3
+4841,True,Theft,Mild,Legal,WillowFire,1
+4851,True,Nuclear,Severe,Medical,Edmonton Alberta Canada,4
+4855,False,None,None,None,"Roosevelt, Washington",0
+4861,False,None,None,None,"Pea Ridge, WV",0
+4862,False,None,None,None,Unknown,0
+4863,False,None,None,None,sam,0
+4865,False,None,None,None,Unknown,0
+4871,False,None,None,None,Unknown,0
+4873,False,None,None,None,Unknown,0
+4880,False,None,None,None,Unknown,0
+4885,False,None,None,None,Unknown,0
+4886,False,None,None,None,Unknown,0
+4902,False,None,None,None,Unknown,0
+4904,False,None,None,None,Redding,0
+4907,False,None,None,None,U.S.A,0
+4916,False,None,None,None,"Concord, North Carolina",0
+4921,False,None,None,None,"NorthIowa, Alexander, Iowa",0
+4925,False,None,None,None,Unknown,0
+4927,False,None,None,None,Unknown,0
+4928,False,None,None,None,"Car 649, ÌÏT: 39.168519,-119.766123",0
+4930,False,None,None,None,Ittihad .f.c,0
+4932,True,Power Outage,Mild,None,Unknown,2
+4933,False,None,None,None,"Detroit, Michigan",0
+4937,True,Historical,Severe,None,London,4
+4939,True,Bombing,Severe,Medical,Hiroshima,5
+4941,True,Accident,Mild,Financial,Canaduh,1
+4942,False,None,None,None,Unknown,0
+4947,False,None,None,None,Unknown,0
+4949,False,None,None,None,Unknown,0
+4950,False,None,None,None,"Ìth Cliath, Ìäire",0
+4956,True,Accident,Mild,Financial,My house,2
+4960,False,None,None,None,Unknown,0
+4963,False,None,None,None,Unknown,0
+4965,False,None,None,None,Unknown,0
+4976,False,None,None,None,New York,0
+4977,False,None,None,None,New York,0
+4987,False,None,None,None,LOST Angeles,0
+4991,True,Bombing,Severe,Medical,Unknown,4
+4994,False,None,None,None,Unknown,0
+4999,False,None,None,None,"Orlando, FL",0
+5003,True,Explosion,Mild,Medical,Naples,2
+5006,False,None,None,None,Unknown,0
+5009,False,None,None,None,Philadelphia,0
+5011,False,Shooting,Mild,None,Washington DC,2
+5012,True,Bombing,Severe,Historical,Hiroshima,5
+5014,False,None,None,None,Unknown,0
+5020,False,None,None,None,New York,0
+5021,False,None,None,None,"Charleston, WV",0
+5023,False,Ecocide,Moderate,None,Gaza,3
+5026,False,None,None,None,Unknown,0
+5030,False,None,None,None,Washington DC,0
+5031,True,Bombing,Severe,Historical,Hiroshima,5
+5036,True,Famine,Severe,Food,"Cape Town, South Africa",4
+5042,False,None,None,Political,Benghazi,0
+5045,True,Collapse,Moderate,Shelter,Unknown,3
+5048,True,Collapse,Moderate,Shelter,Montreal,3
+5051,False,Weather,Moderate,None,Be Earth,2
+5053,False,None,None,None,West Virginia,0
+5054,False,None,None,None,"New York, NY",0
+5057,False,None,None,None,Denmark,0
+5058,False,None,None,None,"Hudson Valley,NY",0
+5066,True,Famine,Moderate,Food,Russia,3
+5070,True,Famine,Moderate,Food,Ukraine,3
+5077,False,None,None,None,"Washington, DC",0
+5081,True,Famine,Severe,Food,Ukraine,4
+5084,False,None,None,None,"Punjab, Pakistan",0
+5086,False,None,None,None,Unknown,0
+5090,True,Famine,Severe,Food,Ukraine,4
+5091,True,Famine,Mild,Food,Ukraine,2
+5093,False,None,None,None,Egypt,0
+5100,True,Famine,Severe,Food,Ethiopia,4
+5108,True,Famine,Severe,Food,Ukraine,4
+5111,False,Shooting,Mild,Legal,Cincinnati,2
+5112,False,Shooting,Mild,Medical,"Kansas City, MO",2
+5118,False,None,None,None,Unknown,0
+5121,False,Manslaughter,Mild,Legal,Unknown,2
+5123,False,Manslaughter,Mild,Legal,Gurgaon,2
+5129,False,Crash,Mild,None,Greek,2
+5133,False,None,None,None,Unknown,0
+5143,False,None,None,None,Unknown,0
+5147,False,Accident,Mild,Medical,Unknown,2
+5151,True,Fire,Moderate,None,Waimate,3
+5156,False,Shooting,Mild,Medical,Vermont & 14th Street,2
+5158,False,Manslaughter,Mild,Legal,Baroda,2
+5161,False,None,None,None,Unknown,0
+5163,False,Accident,Moderate,Medical,Las Vegas,3
+5167,False,Accident,Moderate,Medical,"Greenville, SC",3
+5173,True,Earthquake,Mild,None,Unknown,2
+5205,False,Accident,Moderate,Medical,Seattle,3
+5214,False,None,None,None,Unknown,0
+5215,False,None,None,None,"Sericita, Minas Gerais",0
+5216,False,None,None,None,Unknown,0
+5217,False,None,None,None,Unknown,0
+5225,False,None,None,None,Unknown,0
+5237,False,None,None,None,Unknown,0
+5239,False,None,None,None,Bobba Island,0
+5240,False,None,None,None,"Santa Cruz, CA",0
+5241,False,None,None,None,Unknown,0
+5246,False,None,None,Medical,Guatemala,0
+5250,False,None,None,Medical,Planet Earth,0
+5253,False,None,None,None,Unknown,0
+5258,False,None,None,None,Unknown,0
+5261,False,None,None,None,"Amos,Quebec,Canada",0
+5268,False,None,None,Financial,USA,0
+5275,False,None,None,None,Unknown,0
+5277,False,None,None,None,Windsor ON Canada,0
+5279,False,None,None,None,Unknown,0
+5288,False,None,None,None,Unknown,0
+5289,False,None,None,None,Sherman ave South Bronx,0
+5294,False,None,None,None,"Jakarta, Indonesia",0
+5303,False,None,None,None,"Free Hanseatic City of Bremen, Germany",0
+5307,False,None,None,None,Unknown,0
+5311,False,None,None,None,Unknown,0
+5312,False,None,None,Medical,Michigan,0
+5314,False,None,None,None,San Jose State University,0
+5318,False,None,None,None,Unknown,0
+5327,False,None,None,None,New York,0
+5329,True,Fire,Mild,Fire Fighting,OUTERSPACE,2
+5333,False,None,None,None,Unknown,0
+5334,False,None,None,None,San Antonio,0
+5340,False,None,None,None,Salem ma,0
+5348,False,None,None,None,Lakeland Fl,0
+5358,False,None,None,None,Unknown,0
+5360,False,None,None,None,Wonderland,0
+5361,False,Accident,Mild,Medical,NJ Turnpike,2
+5363,True,Fire,Moderate,Fire Fighting,Tulsa,3
+5364,False,None,None,None,"Lampe, MO",0
+5369,True,Fire,Moderate,Fire Fighting,"Irvine Blvd, Los Angeles",3
+5370,False,None,None,None,New York,0
+5374,True,Fire,Moderate,Fire Fighting,Tulsa,3
+5376,True,Fire,Severe,Medical,"NJ Turnpike, Linden",4
+5388,False,None,None,None,"Queens, New York",0
+5390,False,None,None,None,"Fredericksburg, VA",0
+5393,True,Fire,Moderate,Fire Fighting,NJ Turnpike,3
+5394,False,None,None,None,Raleigh,0
+5395,True,Fire,Mild,Fire Fighting,"Los Angeles, CA",2
+5398,True,Fire,Mild,Fire Fighting,Warwick,2
+5399,True,Fire,Moderate,Fire Fighting,"Driscoll Bridge, Garden State Parkway",3
+5401,False,None,None,None,Unknown,0
+5747,False,None,None,None,west coast,0
+5749,True,Fire,Mild,None,"alberta, canada",2
+5750,True,Fire,Mild,None,"Muskegon, MI, California",2
+5755,True,Fire,Mild,None,Unknown,2
+5756,True,Fire,Mild,None,Iran,2
+5761,True,Fire,Moderate,None,"Washington, DC, California",3
+5762,True,Fire,Mild,None,"Panama City Beach, Florida, California",2
+5767,True,Fire,Moderate,None,northern CA,3
+5768,False,None,None,None,"Kruibeke, BelgiÌÇ",0
+5770,True,Fire,Mild,None,"Missoula, MT, Bitterroot National Forest",2
+5773,True,Fire,Mild,None,"Madison, WI",2
+5774,False,None,None,None,Unknown,0
+5779,True,Fire,Moderate,None,NYC,3
+5782,True,Fire,Moderate,None,"NIFC, CA, CASHF, River Complex, Six Rivers National Forest",3
+5785,False,None,None,None,Unknown,0
+5786,True,Hail,Mild,None,Calgary,2
+5787,True,Hail,Moderate,None,"United States, Big Horn Yellowstone [MT]",3
+5788,True,Hail,Mild,None,"Worldwide, Bluff Ridge Rd, South Shades Crest Rd",2
+5796,False,None,None,None,"Stgo, Chile",0
+5802,False,None,None,None,Qwuank,0
+5806,True,Hail,Moderate,None,"Oklahoma, Arcadia",3
+5809,False,None,None,None,Townsville,0
+5810,False,None,None,None,Ontario CA,0
+5811,True,Hail,Mild,None,Custer Fall River & Shannon Counties in SD,2
+5813,True,Hail,Mild,None,"British Columbia, Olds",2
+5820,False,None,None,None,St Louis,0
+5823,False,None,None,None,Ontario CA,0
+5830,True,Hail,Mild,None,Central Hills,2
+5831,False,None,None,None,Unknown,0
+5838,True,Hail,Mild,None,Calgary,2
+5839,False,None,None,None,Washington State,0
+5844,True,Hail,Mild,None,Boston,2
+5846,True,Hail,Mild,None,"Calgary, Alberta, Canada",2
+5851,True,Hail,Mild,None,"boston, cambridge",2
+5852,True,Hail,Mild,None,Calgary,2
+5857,False,None,None,None,Calgary,0
+5859,False,None,None,None,Unknown,0
+5860,True,Hail,Moderate,Power restoration,Calgary,3
+5862,True,Hail,Mild,None,"Boston, MA",2
+5865,True,Hail,Mild,Traffic Management,"Crowchild, Calgary",2
+5866,True,Hail,Mild,None,"Calgary, Alberta",2
+5871,True,Hail,Moderate,Transportation,"LRT station, Philippines",3
+5872,True,Hail,Mild,None,Calgary,2
+5877,True,Hail,Moderate,Transportation,LRT station,3
+5878,True,Hail,Mild,Cleanup,Calgary,2
+5879,True,Hail,Moderate,Transportation,LRT station,3
+5880,False,None,None,None,USA,0
+5895,False,None,None,Medical,london,0
+5897,False,None,None,None,Unknown,0
+5910,False,None,None,None,Blue Nation Naija,0
+5914,False,None,None,None,Washington State,0
+5915,False,None,None,None,Maryland,0
+5917,False,None,None,None,Unknown,0
+5924,False,None,None,None,"Melbourne, Australia",0
+5926,False,None,None,None,Los Angeles,0
+5931,False,None,None,None,"HamptonRoads, Virginia",0
+5936,False,None,None,None,Hong Kong,0
+5940,False,None,None,None,Karma,0
+5941,False,None,None,None,Mystic Falls,0
+5945,False,None,None,None,"Oro Valley, AZ",0
+5946,False,None,None,None,Unknown,0
+5948,True,Fire,Mild,Evacuation,Android Land,2
+5951,False,None,None,None,Unknown,0
+5967,False,None,None,None,Unknown,0
+5968,True,Hazard,Mild,Medical,Chicago,2
+5969,False,None,None,None,Honduras,0
+5970,False,None,None,None,Unknown,0
+5971,True,Hazard,Mild,Medical,"El Cerrito, CA",2
+5973,False,None,None,None,Sunderland,0
+5976,False,None,None,None,Unknown,0
+5977,False,None,None,None,"Sydney, Australia",0
+5984,True,Hazard,Mild,Traffic Management,E CONFEDERATE AVE SE / MORELAND AVE SE,2
+5986,True,Hazard,Mild,Information,Unknown,2
+5993,True,Hazard,Mild,Information,New York,2
+5994,True,Hazard,Mild,Information,Unknown,2
+6005,True,Hazard,Moderate,"Evacuation, Medical","Mobile, AL",3
+6006,True,Hazard,Mild,Information,United States,2
+6008,True,Hazard,Mild,Information,Unknown,2
+6010,True,Hazard,Mild,Information,Unknown,2
+6011,True,Hazard,Moderate,Housing Inspection,Minnesota,3
+6014,False,None,None,None,"Washington, DC",0
+6016,True,Hazard,Mild,Information,Unknown,2
+6018,False,None,None,None,"Miami, FL",0
+6021,True,Hazard,Mild,Information,Unknown,2
+6025,True,Hazard,Moderate,Traffic Management,"SH 29 Kaimai Ranges, New Zealand",3
+6028,True,Hazard,Severe,Cleanup,"Kodiak Island, Yellowknife NT Canada",4
+6029,False,None,None,Medical,Planet Earth,0
+6035,True,Heat Wave,Mild,Medical,"Brooklyn, NY",2
+6040,False,None,None,None,"Chicago, IL",0
+6042,False,None,None,None,"San Francisco, CA",0
+6044,False,None,None,Medical,Unknown,0
+6046,True,Heat Wave,Mild,Medical,"vb/norfolk,va",2
+6052,False,None,None,None,"Rahway, NJ",0
+6054,False,None,None,None,Canada,0
+6062,True,Heat Wave,Moderate,"Medical, Shelter",Chicago,3
+6063,True,Heat Wave,Mild,Medical,"Charlotte, NC",2
+6067,True,Heat Wave,Severe,"Medical, Shelter",Japan,4
+6068,True,Heat Wave,Moderate,Medical,"Middle East, Israel",3
+6077,True,Heat Wave,Mild,Information,Unknown,2
+6079,True,Heat Wave,Mild,Medical,"Milan, Italy",2
+7364,False,None,None,None,Unknown,0
+7368,False,None,None,None,"North Carolina, USA",0
+7370,False,None,None,None,Seattle,0
+7375,False,None,None,None,Unknown,0
+7376,False,None,None,None,Bucks,0
+7379,False,None,None,None,"Seattle, WA",0
+7382,False,None,None,None,FL,0
+7384,False,None,None,None,Rhyming,0
+7385,False,None,None,None,Unknown,0
+7387,False,None,None,None,Unknown,0
+7388,False,None,None,None,Unknown,0
+7389,False,None,None,None,United Kingdom,0
+7394,False,None,None,None,Unknown,0
+7396,False,None,None,None,England,0
+7398,False,None,None,None,Unknown,0
+7399,False,None,None,None,Unknown,0
+7401,False,None,None,None,Unknown,0
+7404,False,None,None,None,"Grand Rapids, MI",0
+7406,True,War,Severe,Medical,Nanda Parbat,5
+7409,False,None,None,None,"Calgary, Alberta",0
+7411,False,None,None,None,MIA,0
+7417,False,None,None,None,"London, UK",0
+7420,False,None,None,None,Unknown,0
+7422,False,None,None,None,USA,0
+7423,False,None,None,None,LastLevelPress.com,0
+7427,True,Bombing,Severe,Medical,Japan,5
+7429,False,None,None,None,"Calgary, Alberta, Canada",0
+7432,False,None,None,None,"Metropolis, TX",0
+7435,False,None,None,None,Saturn,0
+7436,True,Bombing,Severe,Medical,Hiroshima,5
+7440,True,Bombing,Severe,Medical,Hiroshima,5
+7441,False,None,None,None,Middlesbrough,0
+7445,False,None,None,None,"San Diego, CA",0
+7448,False,None,None,None,Unknown,0
+7449,False,None,None,None,Unknown,0
+7450,False,None,None,None,Canada,0
+7454,False,None,None,None,Unknown,0
+7455,False,None,None,None,"California, United States",0
+7460,False,None,None,None,Unknown,0
+7462,False,None,None,None,Harlem New York,0
+7464,False,None,None,None,"Port Townsend, WA",0
+7466,False,None,None,None,Unknown,0
+7468,False,None,None,None,West,0
+7469,False,None,None,None,Wisconsin,0
+7471,False,None,None,None,U.S.A.,0
+7472,False,None,None,None,New Delhi,0
+7483,False,None,None,None,KNOXVILLE TN USA,0
+7484,False,None,None,None,United States,0
+7485,False,None,None,None,Virginia (USA),0
+7486,False,None,None,None,The World,0
+7487,False,None,None,None,Unknown,0
+7489,True,Bombing,Severe,Medical,Hiroshima and Nagasaki,5
+7492,False,None,None,None,Utopia,0
+7495,True,Oil Spill,Moderate,Clean-up,Refugio,3
+7499,True,Oil Spill,Moderate,Clean-up,Refugio,3
+7500,True,Oil Spill,Moderate,Clean-up,"Los Angeles, CA, Refugio",3
+7506,True,Oil Spill,Moderate,Clean-up,California,3
+7508,False,None,None,None,Unknown,0
+7509,True,Oil Spill,Moderate,Clean-up,Unknown,3
+7511,True,Oil Spill,Moderate,Clean-up,"Houston, California",3
+7516,True,Oil Spill,Moderate,Clean-up,Refugio,3
+7524,True,Oil Spill,Moderate,Clean-up,"Arlington, Gulf",3
+7538,True,Oil Spill,Mild,Clean-up,"NSW, BANKSTOWN, Australia",2
+7539,True,Oil Spill,Moderate,Clean-up,"Los Angeles, Refugio",3
+7541,True,Oil Spill,Moderate,Clean-up,"Dallas, California",3
+7546,True,Outbreak,Moderate,Medical,Unknown,3
+7549,True,Outbreak,Moderate,Medical,Nigeria,3
+7562,True,Outbreak,Moderate,Medical,Unknown,3
+7564,True,Outbreak,Moderate,Medical,"Dunwoody, GA",3
+7567,True,Outbreak,Moderate,Medical,"FCT, Abuja, University of Illinois",3
+7572,True,Outbreak,Moderate,Medical,Unknown,3
+7574,True,Outbreak,Moderate,Medical,"Nashville, Tennessee",3
+7575,True,Outbreak,Moderate,Medical,Dubai,3
+7586,True,Outbreak,Moderate,Medical,Unknown,3
+7592,True,Outbreak,Moderate,Medical,Edinburgh,3
+7596,False,None,None,Medical,"Aba, Lagos, Nigeria",0
+7597,False,None,None,None,"Trent Bridge, LND",0
+7599,False,None,None,None,London,0
+7606,False,None,None,None,"Westmeath, Loreto College, Mullingar",0
+7615,False,None,None,Medical,"Aba, Nigeria",0
+7618,False,None,None,Medical,"Aba, Nigeria",0
+7620,False,None,None,None,"Christie Hillside, Toronto, Canada",0
+7624,False,None,None,Medical,"Aba, Lagos",0
+7625,False,None,None,Medical,"Aba, Los Angeles",0
+7629,False,None,None,None,"Bihar, Jabalpur",0
+7632,False,None,None,None,"SFA, nan",0
+7636,False,None,None,None,"Raleigh, Durham, NC",0
+7637,False,None,None,Medical,"Aba, Ogbor Hill, Lagos, Nigeria",0
+7646,False,None,None,None,sad,0
+7655,False,None,None,Mental Health,St. Louie,0
+7658,False,None,None,None,nan,0
+7660,False,None,None,Mental Health,Louisiana,0
+7664,True,Food Shortage,Moderate,Food,"Venezuela, Corpus Christi, Texas",3
+7665,False,None,None,None,nan,0
+7666,False,None,None,None,Narnia,0
+7667,False,None,None,Mental Health,nan,0
+7673,False,None,None,None,"North Devon, UK",0
+7676,False,None,None,Medical,nan,0
+7682,False,None,None,Mental Health,nan,0
+7684,False,None,None,Advice,nan,0
+7690,False,None,None,None,Narnia,0
+7697,False,None,None,Advice,leicester,0
+7700,False,None,None,None,nan,0
+7704,False,None,None,None,nan,0
+7705,False,None,None,None,nan,0
+7706,False,None,None,None,"Brooklyn, NY",0
+7708,False,None,None,None,nan,0
+7709,False,None,None,None,Italia,0
+7710,True,Flood,Mild,Cleaning,"Philadelphia, PA",2
+7713,False,None,None,Mental Health,omaha neblastya,0
+7716,False,None,None,None,Home,0
+7726,False,None,None,None,nan,0
+7729,False,None,None,None,nan,0
+7730,False,None,None,None,nan,0
+7732,False,None,None,None,nan,0
+7734,False,None,None,None,Bedford,0
+7740,False,None,None,None,nan,0
+7741,False,None,None,Security,nan,0
+7745,False,None,None,Police,Mexico,0
+7757,False,None,None,Police,Wolverhampton,0
+7762,False,None,None,Police,"Gresham, OR",0
+7770,False,Shooting,Moderate,"Medical, Police",Stockton,3
+7776,False,None,None,None,nan,0
+7777,False,None,None,None,"Portland, Oregon",0
+7778,False,Shooting,Moderate,"Medical, Police","Tennessee, Philadelphia",3
+7779,False,None,None,None,"Uganda, Africa",0
+7782,False,None,None,None,"Pennsylvania, USA",0
+7786,False,None,None,Police,Nigeria,0
+7791,False,None,None,Police,"Portland, OR",0
+7792,False,None,None,None,"U.S., Colorado",0
+7794,False,None,None,None,nan,0
+7795,False,None,None,None,mumbai,0
+7796,False,None,None,None,nan,0
+7798,False,None,None,None,"Philadelphia, PA USA",0
+7805,False,None,None,None,nan,0
+7806,False,None,None,None,nan,0
+7808,False,None,None,None,nan,0
+7811,False,None,None,None,Italy,0
+7814,False,None,None,None,San Jose,0
+7819,False,None,None,None,"New Jersey, USA",0
+7820,False,Disease Outbreak,Mild,Medical,nan,2
+7825,False,None,None,None,Milano,0
+7829,False,None,None,Mental Health,"Johnson County, Kansas",0
+7834,False,None,None,None,#Bitcoinland,0
+7836,False,None,None,None,"Mumbai, India",0
+7838,False,None,None,None,Maryland,0
+7841,False,None,None,None,New York,0
+7845,True,Ebola Outbreak,Moderate,Medical,Alabama,3
+7846,False,None,None,None,"darwins, au",0
+7853,False,None,None,None,"Springfield, MO",0
+7856,False,None,None,None,"brisbane, australia",0
+7858,False,None,None,None,china,0
+7859,True,Medical,Mild,Medical,Alabama,2
+7866,False,None,None,None,Reddit,0
+7875,True,Medical,Mild,Medical,Alabama,2
+7879,False,None,None,None,Unknown,0
+7884,False,None,None,None,Unknown,0
+7886,True,Medical,Mild,Medical,"Bronx, New York, Alabama",2
+7890,False,None,None,None,"Chattanooga, TN",0
+7892,False,None,None,None,Unknown,0
+7896,False,None,None,Medical,"Pretoria, South Africa",0
+7899,True,Radiation,Moderate,Medical,?x??p = ?/2,3
+7900,True,Wildfire,Moderate,Multiple,"Kuala Lumpur, Malaysia",3
+7901,True,Radiation,Moderate,Medical,Morganton GA,3
+7904,True,Radiation,Mild,None,"Salem, OR",2
+7911,False,None,None,None,Unknown,0
+7917,True,Rainstorm,Mild,None,Unknown,2
+7919,False,None,None,None,"Secane, PA",0
+7920,True,Landslide,Moderate,"Medical, Rescue",Italian Alps,4
+7921,True,Landslide,Moderate,"Medical, Rescue","Italian Alps, Keffi, ROME",4
+7922,False,None,None,None,Unknown,0
+7925,True,Landslide,Moderate,"Medical, Rescue","Italian Alps, ROME",4
+7927,False,None,None,None,Brooks Near Dinosaur Provincial Park Alberta,0
+7928,True,Landslide,Moderate,"Medical, Rescue","Kent, United Kingdom, Italian Alps, ROME",4
+7931,False,None,None,None,"Memphis, TN",0
+7942,False,None,None,None,WorldWide,0
+7946,True,Landslide,Moderate,"Medical, Rescue","Phoenix, AZ, Italian Alps, ROME",4
+7947,False,None,None,None,"Calgary, Alberta",0
+7948,False,None,None,None,"Banner Elk, NC, Avery County",0
+7951,False,None,None,None,Unknown,0
+7956,False,None,None,None,South East Florida,0
+7961,True,Fire,Moderate,"Shelter, Firefighting",Northern California,3
+7964,True,Fire,Moderate,"Shelter, Firefighting","Kaneville, Northern California",3
+7966,True,Fire,Moderate,"Shelter, Firefighting",Northern California,3
+7967,False,None,None,None,San Francisco,0
+7974,True,Fire,Moderate,"Shelter, Firefighting","Abuja, Northern California",3
+7975,False,None,None,None,Unknown,0
+7979,True,Fire,Moderate,"Shelter, Firefighting",Northern California,3
+7985,True,Fire,Moderate,"Shelter, Firefighting","California, Northern California",3
+7986,True,Fire,Moderate,"Shelter, Firefighting",Northern California,3
+7993,False,None,None,None,University of Alabama,0
+7995,True,Fire,Moderate,"Shelter, Firefighting",Northern California,3
+7997,False,None,None,None,"New York, USA",0
+7998,True,Fire,Moderate,"Shelter, Firefighting",Northern California,3
+8004,True,Fire,Moderate,"Shelter, Firefighting",Northern California,3
+8007,True,Fire,Moderate,"Shelter, Firefighting",Northern California,3
+8011,False,None,None,None,Kansas KS,0
+8014,True,Refugee,Moderate,"Shelter, Food, Medical","Nigeria, Cameroon",3
+8022,True,Refugee,Moderate,"Food, Shelter","Toulouse Haute-Garonne France, Syrian",3
+8027,False,None,None,None,Unknown,0
+8033,True,Refugee,Moderate,"Shelter, Food, Medical","Nigeria, Cameroon",3
+8041,True,Refugee,Moderate,"Food, Shelter","Hannover, Syrian",3
+8042,True,Refugee,Moderate,"Shelter, Food, Medical","Nigeria, Cameroon",3
+8046,False,None,None,None,"Shellharbour, Wollongong",0
+8048,True,Refugee,Moderate,"Food, Shelter",Syrian,3
+8050,True,Refugee,Moderate,"Shelter, Food, Medical","Nigeria, Cameroon",3
+8051,False,None,None,None,Unknown,0
+8052,True,War,Moderate,None,Unknown,3
+8053,True,Refugee,Moderate,"Shelter, Food, Medical","Nigeria, Cameroon",3
+8054,False,None,None,None,Europa,0
+8059,False,None,None,None,Unknown,0
+8063,False,Fire,Mild,Animal Rescue,Chicagoland,1
+8072,False,None,None,None,Unknown,0
+8075,False,None,None,Animal Rescue,U.S.A.,0
+8076,False,None,None,None,Unknown,0
+8077,True,Migrant Rescue,Moderate,"Medical, Rescue",Libya,3
+8078,False,None,None,Rescue,"Chillicothe, OH",0
+8080,False,None,None,None,Unknown,0
+8082,False,None,None,Medical,USA,0
+8086,False,None,None,None,"Lexington, KY",0
+8090,True,Fire,Moderate,Firefighting,Rocky Fire,3
+8092,False,None,None,None, Kaijo High School,0
+8093,False,None,None,None,Unknown,0
+8099,False,None,None,Rescue,"Summerside, Central Street",0
+8104,False,None,None,Rescue,Canada,0
+8107,False,None,None,None,"London, UK",0
+8108,False,None,None,None,Unknown,0
+8114,False,None,None,None,"Hollywood, CA",0
+8115,True,Kidnapping,Mild,Medical,"Niger State, Kontagora, Aba",2
+8117,True,Flood,Moderate,Medical,"Himalayas, Burnley, Lancashire",3
+8123,True,Sinking,Severe,"Medical, Shelter","Pembroke Dock, Wales, Italy",5
+8124,True,Kidnapping,Mild,Medical,"Enugu, Nigerian",2
+8127,True,Sinking,Moderate,Medical,"Nairobi, Kenya",3
+8132,False,None,None,None,Patra-Greece,0
+8134,True,Flood,Moderate,Medical,"Hyderabad Telangana INDIA, Himalaya",3
+8139,False,None,None,None,"Bath, England, Dorset",0
+8145,True,Drowning,Mild,Search and Rescue,"Calgary, Vulcan",2
+8148,True,Sinking,Severe,"Medical, Shelter","Rome, IT, Libya",5
+8151,True,Sinking,Severe,"Medical, Shelter","Worldwide, Mediterranean",5
+8152,True,Sinking,Severe,"Medical, Shelter",Mediterranean,5
+8153,False,None,None,None,"Los Angeles, CA",0
+8157,False,None,None,None,"Orange County, California",0
+8160,True,Sinking,Severe,"Medical, Shelter",Med,5
+8166,True,Sinking,Severe,"Medical, Shelter",Mediterranean,5
+8167,True,Sinking,Severe,"Medical, Shelter",Mediterranean,5
+8173,False,None,None,Medical,"Paradise, NV, Marin County",0
+8174,True,Sinking,Severe,"Medical, Shelter",Mediterranean,5
+8178,True,Sinking,Severe,"Medical, Shelter",Nigeria,5
+8179,False,None,None,None,Ocean,0
+8185,False,None,None,None,Florida,0
+8186,True,Sinking,Severe,"Medical, Shelter","Manado,Sulawesi Utara, Mediterranean",5
+8192,False,None,None,None,"Portland, OR",0
+8193,False,None,None,None,"Wakefield, England",0
+8194,False,None,None,None,"Las Vegas, NV",0
+8197,False,None,None,None,Unknown,0
+8198,False,None,None,None,Unknown,0
+8199,False,None,None,None,Unknown,0
+8200,False,None,None,None,Unknown,0
+8206,False,None,None,None,Unknown,0
+8207,False,None,None,None,California,0
+8220,False,None,None,None,San Francisco,0
+8222,False,None,None,None,Unknown,0
+8227,False,None,None,None,#sundaunited,0
+8228,False,None,None,None,Unknown,0
+8229,True,Riot,Moderate,"Medical, Legal",NYC,3
+8230,True,Riot,Moderate,"Medical, Legal","U.K., Southampton, Vitesse Arnhem",3
+8233,True,Riot,Moderate,"Medical, Legal","Global, Southampton, Vitesse Arnhem",3
+8248,False,None,None,None,GO Bucks!,0
+8249,True,Riot,Moderate,Legal,Ferguson,3
+8255,False,None,None,None,Cali,0
+8260,True,Riot,Moderate,Legal,"Tri-State, Ferguson",3
+8263,False,None,None,None,Azeroth,0
+8265,False,None,None,None,#DCjacobin,0
+8268,True,Riot,Moderate,Legal,Unknown,3
+8269,True,Riot,Moderate,Legal,Davis,3
+8272,True,Riot,Moderate,Legal,Unknown,3
+8273,True,Riot,Moderate,Legal,å©hicago,3
+8275,False,None,None,None,"Manhattan, NY",0
+8277,True,Riot,Moderate,Legal,Portland,3
+8281,True,Riot,Moderate,Legal,"Dublin, Ireland, Ferguson",3
+8282,True,Riot,Moderate,Legal,"Liverpool, Australia",3
+8290,True,Riot,Moderate,Legal,Baltimore,3
+8293,True,Animal Abuse,Mild,Animal Rescue,London,2
+8299,False,None,None,None,"USA, WaMu",0
+8302,False,Economic,Mild,Financial,"Worldwide, China",1
+8303,False,Economic,Mild,Financial,"UberlÌ¢ndia - MG - Brasil, China",1
+8305,False,Economic,Mild,Financial,China,1
+8306,False,None,None,None,Unknown,0
+8307,False,Economic,Mild,Financial,China,1
+8308,False,Economic,Mild,Financial,"ON, China",1
+8313,False,None,None,None,Los Angeles,0
+8316,False,Economic,Mild,Financial,"HUSTON TEXAS, China",1
+8319,False,None,None,None,Unknown,0
+8322,True,Bombing,Severe,"Medical, Shelter","Toronto, Hiroshima",5
+8323,False,None,None,None,"West Coast, Guam",0
+8325,False,None,None,None,Unknown,0
+8326,False,None,None,None,Unknown,0
+8327,False,None,None,None,Unknown,0
+8328,False,Economic,Mild,Financial,China,1
+8331,False,Economic,Mild,Financial,"New York, China",1
+8671,True,Sinkhole,Mild,None,"Brooklyn, mombasa",2
+8672,True,Sinkhole,Moderate,None,Lowndes County Georgia,3
+8675,True,Sinkhole,Moderate,Shelter,"Brooklyn, Boston, MA",3
+8678,True,Sinkhole,Moderate,Shelter,"NYC, Texas, USA",3
+8679,True,Sinkhole,Moderate,Shelter,Brooklyn,3
+8682,True,Sinkhole,Moderate,Shelter,"Brooklyn, New York, New York",3
+8687,True,Sinkhole,Moderate,Shelter,New York City Street,3
+8701,False,None,None,None,Muh Pond,0
+8703,False,None,None,None,University of Oklahoma,0
+8707,False,None,None,None,Georgia/Florida,0
+8713,False,None,None,Psychological,Liverpool,0
+8716,False,None,None,None,London / Herts,0
+8719,False,None,None,None,Unknown,0
+8725,False,None,None,None,Kano,0
+8730,False,None,None,None,"Washington, DC",0
+8731,False,None,None,None,Maryland/Myrtle Beach CCU'19,0
+8748,False,None,None,None,"Los Angeles, California",0
+8749,False,None,None,None,London,0
+8756,False,None,None,None,Jupiter,0
+8764,False,None,None,None,Lagos,0
+8765,False,None,None,None,New York,0
+8769,False,None,None,None,Unknown,0
+8771,False,None,None,None,New York,0
+8772,False,None,None,None,#TeamHKNgang,0
+8773,False,None,None,None,Unknown,0
+8779,False,None,None,None,Unknown,0
+8792,False,None,None,None,Unknown,0
+8794,False,None,None,None,Unknown,0
+8796,False,None,None,None,"Chandler, AZ",0
+8798,False,None,None,None,palm spraangs,0
+8803,False,None,None,None,Unknown,0
+8807,False,None,None,None,Unknown,0
+8809,False,None,None,None,hell,0
+8811,False,None,None,None,"Berisso, Argentina",0
+8813,False,None,None,None,"Texas, United States",0
+8814,False,None,None,None,62,0
+8818,False,None,None,None,Unknown,0
+8819,False,None,None,None,new jersey,0
+8820,False,None,None,None,Unknown,0
+8821,False,None,None,None,Unknown,0
+8822,False,None,None,None,probably bargos,0
+8824,False,None,None,None,Unknown,0
+8826,False,None,None,None,Bristol,0
+8827,False,None,None,None,Moreno City - Buenos Aires,0
+8828,False,None,None,None,"Salem, Oregon",0
+8833,True,Fire,Moderate,Firefighting,Unknown,3
+8834,False,None,None,None,Unknown,0
+8845,False,None,None,None,Franklinton - BR - Houston,0
+8847,False,None,None,None,Unknown,0
+8849,False,None,None,None,Roseland,0
+8861,False,None,None,None,Barnsley,0
+8867,False,None,None,None,IL?MI,0
+8868,False,None,None,None,Unknown,0
+8870,False,None,None,None,your mom,0
+8873,False,None,None,None,Unknown,0
+8874,False,None,None,None,Unknown,0
+8876,False,None,None,None,Unknown,0
+8877,False,None,None,None,bliss,0
+8879,False,None,None,None,Unknown,0
+8882,False,None,None,None,@rejxctedmgc is my Harry?,0
+8884,False,None,None,None,kentucky,0
+8889,False,None,None,None,ig: j.nessaa,0
+8891,False,None,None,None,Unknown,0
+8894,True,Snowstorm,Mild,Shelter,Unknown,2
+8895,False,None,None,None,madrid,0
+8897,False,None,None,None,"NJ, USA",0
+8898,False,None,None,None,The Land of Make Believe,0
+8901,False,None,None,None,"Massachusetts, USA",0
+8904,False,None,None,None,"Philadelphia, PA",0
+8909,False,None,None,None,"Alberta, Canada",0
+8910,True,Snowstorm,Mild,Shelter,SouthDowns Hampshire,2
+8911,False,None,None,None,"Mesa, AZ",0
+8915,False,None,None,None,Los Angeles,0
+8917,True,Snowstorm,Moderate,Fuel,"Saint John, N.B, Canada",3
+8918,True,Snowstorm,Mild,Warmth,"Huntington, WV",2
+8919,False,None,None,None,Long Island,0
+8922,True,Snowstorm,Moderate,Donations,Western New York,3
+8925,True,Snowstorm,Mild,Shelter,SouthDowns Hampshire,2
+8928,False,None,None,None,UK,0
+8929,True,Snowstorm,Mild,None,Northeast United States,2
+8930,False,None,None,None,Unknown,0
+8932,False,None,None,None,Manchester,0
+8937,False,None,None,None,Unknown,0
+8940,False,None,None,None,New England,0
+8943,False,None,None,None,Wales,0
+8950,False,None,None,None,AUSTRALIA,0
+8951,True,Storm,Mild,Shelter,Unknown,2
+8954,False,None,None,None,Mackem in Bolton,0
+8958,True,Storm,Mild,None,"Florence, SC",1
+8960,False,None,None,None,"Sunmy Melbourne, England",0
+8964,False,None,None,None,424 N. FAIRFAX AVE. 90036,0
+8975,False,None,None,None,USA,0
+8977,False,None,None,None,Unknown,0
+8981,True,Storm,Mild,None,Fairbanks Alaska,2
+8982,False,None,None,None,Unknown,0
+8984,True,Storm,Mild,None,"North Coast of O-H-I-O, Hilton Head",2
+8988,False,None,None,None,Oman,0
+8990,False,None,None,None,Unknown,0
+8991,False,None,None,None,Unknown,0
+8995,False,None,None,None,Florida,0
+8997,False,None,None,None,BLF (MP)/ PTA (GP)/ PHB(LIMPS),0
+9003,False,None,None,None,None,0
+9004,False,None,None,Medical,"Bedford Stuyvesant, Brooklyn",0
+9010,False,None,None,Medical,SP - Brasil #1,0
+9011,False,None,None,Medical,"Seattle, WA",0
+9013,False,None,None,None,None,0
+9014,False,None,None,Medical,None,0
+9015,False,None,None,None,None,0
+9017,False,None,None,Medical,Lakerland,0
+9019,False,None,None,Medical,"Utica , New York",0
+9021,False,None,None,Medical,USA,0
+9024,False,None,None,None,None,0
+9032,False,None,None,None,Barbados,0
+9035,False,None,None,Medical,Washington DC,0
+9036,False,None,None,None,None,0
+9037,False,None,None,None,St.Louis,0
+9043,True,Accident,Severe,"Medical, Investigation","Cimahi,West Java,Indonesia, Virgin Galactic",4
+9046,True,Accident,Severe,"Medical, Investigation",Virgin Galactic,4
+9048,True,Accident,Severe,"Medical, Investigation","United States of America, Virgin Galactic",4
+9049,True,Accident,Severe,"Medical, Investigation","Stone Mountain, GA, Virgin Galactic",4
+9050,True,Accident,Severe,"Medical, Investigation","United States, Virgin Galactic",4
+9056,False,None,None,None,Asia,0
+9063,False,None,None,None,London,0
+9065,True,Accident,Severe,"Medical, Investigation","Ireland, Virgin Galactic",4
+9066,True,Accident,Severe,"Medical, Investigation",Virgin Galactic,4
+9068,False,None,None,None,None,0
+9069,True,Accident,Severe,"Medical, Investigation","Virginia Beach, VA USA, Virgin Galactic",4
+9070,False,None,None,None,"BurBank, CA",0
+9073,True,Accident,Severe,"Medical, Investigation","Fano (Italy), Virgin Galactic",4
+9076,True,Accident,Severe,"Medical, Investigation","USA, Virgin Galactic",4
+9091,False,None,None,None,"Swaggdad, Irock",0
+9092,True,Bombing,Severe,"Medical, Search and Rescue",Nigeria,5
+9104,True,Bombing,Severe,"Medical, Investigation",Turkey,5
+9105,True,Bombing,Severe,"Medical, Investigation",Turkey,5
+9108,True,Bombing,Severe,"Medical, Investigation",Turkey,5
+9111,True,Bombing,Severe,"Medical, Investigation","Nigeria, Turkey",5
+9115,True,Bombing,Severe,"Medical, Investigation","lagos, Usa, Turkey",5
+9117,True,Bombing,Severe,"Medical, Investigation",Turkey,5
+9122,True,Bombing,Severe,"Medical, Investigation",Turkey,5
+9125,True,Bombing,Severe,"Medical, Investigation",Turkey,5
+9127,True,Bombing,Severe,"Medical, Search and Rescue",Nigeria,5
+9129,True,Bombing,Severe,"Medical, Investigation","Nigeria, Turkey",5
+9133,True,Bombing,Severe,"Medical, Investigation","Nigeria, Turkey",5
+9136,True,Bombing,Severe,"Medical, Investigation","London/Lagos, Turkey",5
+9138,True,Bombing,Severe,"Medical, Investigation","Nigeria, Turkey",5
+9140,True,Bombing,Severe,"Medical, Investigation","YesNaija.com, Turkey",5
+9147,True,Bombing,Severe,"Medical, Search and Rescue",Saudi,5
+9150,True,Bombing,Severe,"Medical, Search and Rescue",Saudi,5
+9152,True,Bombing,Severe,"Medical, Search and Rescue","Atlanta, Saudi",5
+9153,True,Bombing,Severe,"Medical, Search and Rescue",Saudi,5
+9155,True,Bombing,Severe,Medical,Saudi Arabia,5
+9158,True,Bombing,Severe,Medical,Saudi Arabia,5
+9160,True,Bombing,Severe,Medical,Saudi Arabia,5
+9163,True,Bombing,Severe,Medical,Saudi Arabia,5
+9165,True,Bombing,Severe,Medical,Saudi Arabia,5
+9167,False,None,None,None,None,0
+9168,True,Bombing,Severe,Medical,Saudi Arabia,5
+9170,True,Bombing,Severe,Medical,Saudi Arabia,5
+9176,True,Bombing,Severe,Medical,Saudi Arabia,5
+9178,True,Bombing,Severe,Medical,Saudi Arabia,5
+9184,True,Bombing,Severe,Medical,Saudi Arabia,5
+9186,True,Bombing,Severe,Medical,Saudi Arabia,5
+9188,True,Bombing,Severe,Medical,Saudi Arabia,5
+9189,True,Bombing,Severe,Medical,Saudi Arabia,5
+9190,True,Bombing,Severe,Medical,Saudi Arabia,5
+9196,False,None,None,None,None,0
+9198,False,None,None,None,None,0
+9199,True,Bombing,Severe,Medical,Turkey,5
+9200,True,Bombing,Severe,Medical,None,5
+9201,False,None,None,None,None,0
+9202,True,Bombing,Severe,Medical,Syria,5
+9204,False,None,None,None,None,0
+9205,True,Bombing,Severe,Medical,Turkey,5
+9213,False,None,None,None,Turkey,0
+9214,True,Bombing,Severe,Medical,None,5
+9224,True,Bombing,Severe,Medical,None,5
+9227,False,None,None,None,Britain,0
+9228,True,Bombing,Severe,Medical,Turkey,5
+9229,True,Bombing,Severe,Medical,Cameroon,5
+9234,False,None,None,None,Israel,0
+9236,True,Bombing,Severe,Medical,Syria,5
+9241,True,Bombing,Severe,Medical,None,5
+9243,False,None,None,None,None,0
+9245,False,None,None,None,None,0
+9256,True,Sinking,Moderate,SearchAndRescue,Atlantic,3
+9258,False,None,None,None,None,0
+9261,False,None,None,None,None,0
+9274,False,None,None,None,None,0
+9279,False,None,None,None,None,0
+9282,False,None,None,None,None,0
+9284,False,None,None,None,Lincoln,0
+9285,False,None,None,None,None,0
+9291,False,None,None,None,None,0
+9295,False,None,None,None,None,0
+9299,False,None,None,None,None,0
+9302,False,None,None,None,None,0
+9304,False,None,None,None,None,0
+9305,False,None,None,None,None,0
+9306,False,None,None,None,None,0
+9310,False,None,None,None,None,0
+9312,False,None,None,None,None,0
+9316,False,None,None,None,None,0
+9318,False,None,None,None,None,0
+9323,False,None,None,None,None,0
+9326,False,None,None,None,None,0
+9327,False,None,None,None,None,0
+9328,False,None,None,None,None,0
+9331,True,Fire,Moderate,Medical,None,3
+9335,False,None,None,None,None,0
+9336,False,None,None,None,None,0
+9340,False,None,None,None,None,0
+9349,True,Bombing,Severe,Medical,Hiroshima,5
+9352,False,None,None,None,None,0
+9353,False,None,None,None,None,0
+9354,False,None,None,None,None,0
+9356,False,None,None,None,None,0
+9357,False,None,None,None,None,0
+9358,False,None,None,None,None,0
+9359,False,None,None,None,None,0
+9364,False,None,None,None,None,0
+9366,True,Bombing,Severe,Environmental,Hiroshima,5
+9369,False,None,None,None,None,0
+9370,False,None,None,None,None,0
+9379,False,None,None,None,None,0
+9381,False,None,None,None,None,0
+9383,False,None,None,None,"Eugene, OR",0
+9389,False,None,None,None,Unknown,0
+9390,False,None,None,None,Cardiff,0
+9392,True,Nuclear,Severe,Medical,Melbourne,5
+9394,True,Unknown,Moderate,Psychological Support,"Dubai, UAE",3
+9398,True,Violent Crime,Severe,Medical,"Melbourne, Australia",4
+9399,True,Unknown,Moderate,Psychological Support,nan,3
+9400,False,None,None,None,"Richmond, VA, USA",0
+9407,True,Nuclear,Severe,Medical,"Hiroshima, Fukushima",5
+9409,True,Accident,Severe,Search & Rescue,"Carlow, Ireland",4
+9412,True,War,Moderate,None,"Orlando, Shanghai",3
+9413,True,Nuclear,Severe,None,"Bangkok, Thailand",4
+9415,False,None,None,Medical,"Brisbane, Australia",0
+9419,True,Unknown,Moderate,Psychological Support,SDF-1 Macross S. Ataria Island,3
+9423,False,None,None,None,SantibaÌ±ez de Vidriales ZAMORA,0
+9424,True,Nuclear,Severe,Medical,"New York City, Hiroshima",5
+9426,True,Accident,Moderate,Medical,"Temple, GA",3
+9427,True,War,Moderate,None,"Hollywood, CA, Hiroshima",3
+9428,False,None,None,None,"Denver, Co",0
+9429,False,None,None,Psychological Support,nan,0
+9433,True,Nuclear,Severe,None,"Last Legs, New Zealand, Hiroshima",4
+9437,False,None,None,Medical,Greater Boston Area,0
+9440,False,None,None,None,England,0
+9442,True,Terrorism,Moderate,Security,Udaipur,3
+9443,True,Terrorism,Moderate,Security,FLA,3
+9444,True,Terrorism,Moderate,Security,london,3
+9447,True,Terrorism,Moderate,Security,"Toronto, Ontario",3
+9459,True,Terrorism,Moderate,Security,Pakistan,3
+9461,True,Terrorism,Moderate,Security,nan,3
+9462,True,Terrorism,Moderate,Security,Citizen of the World,3
+9464,True,Terrorism,Moderate,Security,nan,3
+9473,True,Terrorism,Moderate,Security,"Washington, DC",3
+9475,True,Terrorism,Moderate,Security,New Jersey,2
+9476,True,Terrorism,Moderate,Security,"New Jersey, USA",3
+9477,True,Terrorism,Moderate,Security,(SoCal),3
+9478,True,Terrorism,Moderate,Security,nan,3
+9479,True,Terrorism,Moderate,Security,nan,3
+9483,True,Terrorism,Moderate,Security,nan,3
+9487,True,Terrorism,Moderate,Security,nan,3
+9494,True,Terrorism,Moderate,Medical,"Kurnool, Udhampur, J&K",4
+9497,True,Terrorism,Moderate,Security,"nan, Udhampur",3
+9498,True,Terrorism,Moderate,Medical,"India, West Bank",4
+9506,False,None,None,None,Tampa Bay,0
+9512,True,Terrorism,Severe,Medical,"Lagos, Nigeria",5
+9514,True,Terrorism,Moderate,Security,"MAD as Hell, Palestinian Villages",3
+9515,False,None,None,None,"Washington, DC",0
+9516,True,Terrorism,Moderate,Security,nan,3
+9517,True,Terrorism,Moderate,Security,"MAD as Hell, Bethlehem",3
+9518,False,None,None,None,Iraq|Afghanistan| RSA |Baghdad,0
+9521,True,Terrorism,Moderate,Security,nan,3
+9523,True,Terrorism,Moderate,Security,patna,3
+9527,True,Terrorism,Moderate,Security,Kolkata,3
+9528,True,Terrorism,Moderate,Security,nan,3
+9530,False,None,None,None,Bharat,0
+9532,True,Terrorism,Moderate,Security,"New Delhi, Delhi, Jammu",3
+9534,True,Terrorism,Moderate,Security,"nan, US, India",3
+9535,False,None,None,None,Iraq|Afghanistan| RSA |Baghdad,0
+9536,True,Terrorism,Moderate,Medical,"nan, West Bank",3
+9543,False,None,None,None,"Baton Rouge, LA",0
+9544,False,None,None,Medical,nan,0
+9545,True,Terrorism,Moderate,Security,"San Francisco, CA, United States",3
+9546,False,None,None,None,nan,0
+9549,True,Bombing,Moderate,Medical,"Portland, Oregon, USA",3
+9558,False,None,None,None,phx az,0
+9560,False,None,None,None,kolkata,0
+9561,False,None,None,None,@kiarakardashhh | Fayetteville,0
+9570,False,None,None,None,nan,0
+9573,False,None,None,None,nan,0
+9578,False,None,None,None,Michigan ?? South Carolina,0
+9584,False,None,None,None,nan,0
+9587,False,None,None,None,nan,0
+9588,False,None,None,Psychological Support,Journey,0
+9599,False,None,None,None,nan,0
+9601,False,None,None,None,ny || ga,0
+9604,False,None,None,None,nan,0
+9614,True,Thunderstorm,Moderate,Shelter,"Red Deer, Alberta, Canada",3
+9615,True,Thunderstorm,Moderate,Shelter,"Oklahoma County, OK",3
+9621,True,Thunderstorm,Moderate,Shelter,Oklahoma County,3
+9622,False,None,None,None,"Lake Hefner Bike Trail, OKC",0
+9623,True,Thunderstorm,Mild,None,Pickens County,2
+9624,False,None,None,None,Cambridge,0
+9626,True,Thunderstorm,Moderate,Shelter,"Oklahoma County, OK",3
+9628,True,Thunderstorm,Moderate,Medical,"AR, NC, OK",3
+9630,False,None,None,None,finland,0
+9631,True,Thunderstorm,Moderate,Shelter,"AR, NC, OK",3
+9633,True,Thunderstorm,Mild,None,Pickens County,2
+9635,True,Thunderstorm,Moderate,Shelter,Oklahoma,3
+9637,True,Thunderstorm,Mild,None,Unknown,2
+9641,False,None,None,None,Unknown,0
+9647,True,Thunderstorm,Moderate,Shelter,"AR, NC, OK",3
+9648,True,Thunderstorm,Mild,None,"Oklahoma City, OK",2
+9649,False,None,None,None,Unknown,0
+9658,False,None,None,None,Unknown,0
+9662,True,Tornado,Moderate,Shelter,Chadbourn,4
+9668,False,None,None,None,Unknown,0
+9671,False,None,None,None,singapore,0
+9676,True,Tornado,Mild,None,Calgary region,3
+9677,True,Thunderstorm,Mild,Shelter,Midwest,2
+9679,False,None,None,None,"Mumbai, India",0
+9682,True,Tornado,Mild,Shelter,"Alberta, Canada",3
+9685,False,None,None,None,Any town USA,0
+9689,False,Tornado,None,None,libertyville,1
+9692,False,None,None,None,Unknown,0
+9693,False,None,None,None,"riverwest, milw",0
+9694,False,None,None,None,"Gurgaon, Haryana",0
+9696,False,None,None,None,Unknown,0
+9700,False,None,None,None,Unknown,0
+9711,True,Train Accident,Severe,Medical,"Mumbai, India",4
+9713,False,None,None,None,bucky barnes hell,0
+9720,False,None,None,None,"SÌ©te, France",0
+9721,False,None,None,None,Unknown,0
+9725,False,None,None,None,America,0
+9726,False,None,None,None,"Berkeley, CA",0
+9727,False,None,None,None,Sheeps Clothing,0
+9735,False,None,None,None,"Jefferson, GA",0
+9740,True,Train Accident,Severe,Medical,MP,4
+9742,True,Train Accident,Severe,Medical,MP,4
+9743,False,None,None,None,Unknown,0
+9747,True,Train Accident,Severe,Medical,Namma Bengaluru,4
+9748,True,Train Accident,Severe,Medical,Mumbai,4
+9751,True,Train Accident,Severe,Medical,MP,4
+9758,True,War Crime,Severe,"Medical, Shelter",Unknown,5
+9767,False,None,None,None,Tokyo,0
+9768,False,None,None,Medical,Unknown,0
+9773,False,None,None,None,Unknown,0
+9777,True,Mine Collapse,Severe,Rescue,Chile,5
+9781,False,None,None,None,"south shore, Massachusetts",0
+9784,False,None,None,None,Unknown,0
+9786,False,None,None,None,Unknown,0
+9789,True,Mine Collapse,Severe,Rescue,Chile,5
+9792,False,None,None,None,Unknown,0
+9793,False,None,None,None,"Houston, TX",0
+9798,True,Mine Collapse,Severe,Rescue,Chile,5
+9799,False,None,None,None,Venezuela,0
+9802,False,None,None,None,Unknown,0
+9803,True,Cave-in,Moderate,"Medical, Rescue",Unknown,3
+9804,False,None,None,None,Orlando,0
+9805,False,None,None,None,Unknown,0
+9807,False,None,None,None,Unknown,0
+9809,False,None,None,Counseling,Unknown,0
+9811,False,None,None,Medical,Unknown,0
+9814,False,None,None,None,N.E.Ohio,0
+9817,False,None,None,None,"Detroit, MI",0
+9821,False,None,None,Counseling,"Nashville, TN",0
+9824,False,None,None,None,Unknown,0
+9825,True,Medical Emergency,Moderate,Medical,NYC,3
+9827,False,None,None,None,Unknown,0
+9839,True,Bombing,Severe,Medical,Hiroshima,5
+9840,False,None,None,None,Unknown,0
+9843,False,None,None,None,"California, USA",0
+9844,False,None,None,Medical,"Austin,Tx",0
+9845,False,None,None,None,"Eugene, OR",0
+9847,False,None,None,None,"Brooklyn, NY and Norfolk, Va",0
+9848,False,None,None,Medical,Unknown,0
+9851,False,None,None,None,"Burlington, VT",0
+9852,False,None,None,Medical,Unknown,0
+9855,False,None,None,None,S.P.Brasil,0
+9856,False,None,None,None,Unknown,0
+9863,False,None,None,None,Unknown,0
+9867,False,None,None,None,Unknown,0
+9871,False,None,None,None,Unknown,0
+9876,True,Humanitarian Crisis,Severe,"Shelter, Medical, Psychological Support",Unknown,5
+9879,False,None,None,None,Unknown,0
+9882,False,Storm,Mild,None,"Halifax, Nova Scotia, Canada",1
+9891,False,None,None,None,"Bideford, England",0
+9892,False,None,None,None,Unknown,0
+9893,False,None,None,None,Glasgow,0
+9895,False,None,None,None,Plymouth,0
+9899,False,None,None,None,Unknown,0
+9900,False,None,None,None,Unknown,0
+9902,False,None,None,None,Unknown,0
+9903,False,None,None,None,London,0
+9904,False,None,None,None,"Portsmouth, UK",0
+9908,False,None,None,None,Unknown,0
+9913,False,None,None,None,Southeast Michigan,0
+9914,True,Traffic,Mild,Traffic management,"EDSA Service Road Cubao SB, Philippines",1
+9917,False,None,None,None,SeattIe,0
+9922,True,Traffic,Mild,Traffic management,"EDSA Service Road Cubao SB, Philippines",1
+9924,False,None,None,None,"Lawrence, MA",0
+9926,False,None,None,None,Lansing ?? Ypsilanti,0
+9927,False,None,None,None,Michigan,0
+9928,False,None,None,None,Unknown,0
+9929,False,None,None,None,Vegas,0
+9936,False,None,None,None,Unknown,0
+9939,False,None,None,None,"Melbourne, Australia",0
+9947,False,None,None,None,Unknown,0
+9951,False,None,None,None,Kansas,0
+9954,False,None,None,None,Singapore,0
+9956,False,None,None,None,Unknown,0
+9957,False,None,None,None,Unknown,0
+9959,False,None,None,None,Unknown,0
+9962,False,None,None,None,Unknown,0
+9964,False,None,None,None,Unknown,0
+9966,True,Tsunami,Mild,"Search and Rescue, Medical",Unknown,3
+9968,False,None,None,None,Unknown,0
+9969,False,"Earthquake, Tsunami",Severe,"Shelter, Food, Water, Medical",US,0
+9970,False,"Earthquake, Tsunami",Severe,"Shelter, Food, Water, Medical",US,0
+9975,False,None,None,None,Unknown,0
+9977,False,None,None,None,SIUC | 618,0
+9981,False,None,None,None,Okinawa,0
+9993,False,None,None,None,Unknown,0
+9996,False,None,None,None,"Evansville, IN",0
+9997,False,None,None,None,Unknown,0
+9999,False,None,None,None,Unknown,0
+10002,False,None,None,None,"Louavul, KY",0
+10007,True,Tsunami,Severe,Medical,Japan,5
+10015,False,None,None,None,Unknown,0
+10019,True,Twister,Mild,Shelter,"Quezon, Philippines",3
+10022,False,None,None,None,boca raton,0
+10024,False,None,None,None,Unknown,0
+10026,False,None,None,Medical,Unknown,0
+10033,False,None,None,None,Flat Rock,0
+10043,False,None,None,None,Unknown,0
+10046,False,None,None,None,Unknown,0
+10051,False,None,None,None,The Internet,0
+10053,False,None,None,None,Unknown,0
+10062,True,Typhoon,Severe,Shelter,Makurazaki,4
+10063,True,Typhoon,Severe,Shelter,Saipan,5
+10065,True,Typhoon,Moderate,Shelter,"Taiwan, China",3
+10068,True,Typhoon,Severe,Shelter,Northern Marians,4
+10078,True,Typhoon,Moderate,Shelter,Taiwan,3
+10086,True,Typhoon,Moderate,None,"London, UK",3
+10094,True,Typhoon,Moderate,None,Unknown,3
+10095,True,Typhoon,Severe,"Water, Electricity",Saipan,4
+10096,True,Typhoon,Moderate,None,Taiwan China,3
+10097,True,Typhoon,Severe,"Water, Electricity",Saipan,4
+10103,True,Typhoon,Severe,Shelter,Saipan,4
+10104,True,Typhoon,Severe,Shelter,Saipan,4
+10108,False,None,None,None,Unknown,0
+10122,False,None,None,None,Unknown,0
+10123,False,None,None,None,BHUBANESWAR,0
+10128,False,None,None,None,Unknown,0
+10131,False,None,None,None,Unknown,0
+10133,False,None,None,None,Unknown,0
+10134,False,None,None,None,Unknown,0
+10135,False,None,None,None,Unknown,0
+10145,False,None,None,None,"Andhra Pradesh, India",0
+10148,False,None,None,None,USA,0
+10154,False,None,None,None,"Surrey, BC",0
+10155,False,None,None,None,"Bentonville, Arkansas",0
+10158,True,Storm,Moderate,Shelter,"Manayunk, Philadelphia",3
+10160,False,None,None,None,Unknown,0
+10161,False,None,None,Medical,Unknown,0
+10162,True,Storm,Moderate,Shelter,Kolkata,3
+10165,True,Storm,Moderate,Shelter,Chicago,3
+10166,True,Storm,Moderate,None,Amsterdam,3
+10167,False,None,None,None,Unknown,0
+10170,True,Storm,Moderate,None,Sylvan Lake,3
+10178,False,None,None,None,Unknown,0
+10180,False,None,None,None,Worldwide,0
+10181,True,Storm,Severe,Medical,New Hampshire,4
+10185,True,Storm,Moderate,Shelter,"Calgary, AB, Evergreen",3
+10188,True,Storm,Moderate,None,"Harvard Square, Cambridge, MA",3
+10190,True,Accident,Severe,Medical,New Hampshire,4
+10196,False,None,None,None,Worldwide,0
+10200,False,None,None,None,calgary,0
+10205,True,Storm,Moderate,None,"Vancouver, British Columbia",3
+10211,False,None,None,None,Herbville,0
+10216,False,None,None,None,New York,0
+10219,False,None,None,None,Unknown,0
+10221,False,None,None,None,Unknown,0
+10225,False,None,None,None,"Algonquin, IL",0
+10227,False,None,None,None,Worcester,0
+10228,False,None,None,None,Unknown,0
+10230,False,None,None,None,"Sawangan 1, Central Java",0
+10232,False,Volcano,None,None,Planet Earth,0
+10233,True,Earthquake,Mild,None,Volcano Hawaii,2
+10235,False,None,None,None,"Kingston, Jamaica",0
+10238,True,Earthquake,Mild,None,Volcano Hawaii,2
+10240,True,Earthquake,Mild,None,Volcano Hawaii,2
+10242,False,None,None,None,"Baker, Louisiana",0
+10248,False,None,None,None,New York,0
+10254,False,None,None,None,Unknown,0
+10257,False,None,None,None,Miami,0
+10261,True,War Zone,Severe,"Medical, Shelter",Unknown,5
+10262,False,None,None,None,baltimore maryland,0
+10266,False,None,None,None,"Wellington City, New Zealand",0
+10267,True,War,Severe,"Shelter, Food, Medical","Saipan, MDS af",4
+10271,False,None,None,None,Canton Ohio,0
+10277,False,None,None,None,Unknown,0
+10279,True,War,Moderate,Emotional Support,In Range,3
+10281,False,None,None,None,Sky's The limit,0
+10282,True,War,Moderate,"Shelter, Food, Medical",Canada,3
+10285,False,None,None,None,"Monroe,LA",0
+10292,False,None,None,None,Unknown,0
+10298,False,None,None,None,Unknown,0
+10300,False,None,None,None,Unknown,0
+10309,False,None,None,None,PNW,0
+10311,False,None,None,None,Unknown,0
+10312,True,Earthquake,Moderate,"Shelter, Food, Medical",Unknown,3
+10319,False,None,None,None,Unknown,0
+10324,False,None,None,None,"Pune, Maharashtra India",0
+10326,False,None,None,None,Unknown,0
+10328,False,None,None,None,Unknown,0
+10343,False,None,None,None,"New York, NY",0
+10346,False,None,None,None,Unknown,0
+10347,False,None,None,None,United Kingdom,0
+10353,False,None,None,None,Unknown,0
+10354,False,None,None,None,Global,0
+10356,True,War,Moderate,None,Unknown,3
+10357,False,None,None,None,Unknown,0
+10362,False,None,None,None,Penn park,0
+10363,False,None,None,None,Tokyo,0
+10370,True,Terrorism,Moderate,Medical,Chattanooga,3
+10373,False,None,None,None,Nigeria,0
+10386,False,None,None,None,"?orth, SG",0
+10388,False,None,None,None,Unknown,0
+10389,False,None,None,None,St. Louis,0
+10391,True,Plane Crash,Severe,Search And Rescue,Malaysia,4
+10397,False,None,None,None,GARRUS,0
+10400,False,None,None,None,Sheffield,0
+10403,False,None,None,None,"Torrance, CA",0
+10404,False,None,None,None,Northwest Jersey,0
+10408,False,None,None,None,Japan,0
+10417,False,None,None,None,Beijing,0
+10425,False,None,None,None,"Springfield, MO",0
+10435,False,None,None,None,Alberta,0
+10437,True,Fire,Moderate,"Evacuation, Fire Fighting",Germany,3
+10438,True,Fire,Moderate,Evacuation,"North Cali, Florida",3
+10440,False,None,None,None,YYC,0
+10442,False,None,None,None,Unknown,0
+10447,True,Fire,Mild,Monitoring,Thunder Bay,2
+10452,False,None,None,None,Unknown,0
+10453,True,Fire,Moderate,"Shelter, Clothing",CA,3
+10454,True,Fire,Moderate,None,California,3
+10459,True,Fire,Moderate,None,California,3
+10460,True,Fire,Mild,"Evacuation, Information",Unknown,2
+10463,False,None,None,None,Colorado,0
+10465,True,Fire,Severe,None,California,4
+10469,False,None,None,None,Montana/North Carolina,0
+10474,True,Fire,Mild,Information,Unknown,2
+10475,True,Fire,Moderate,None,California,3
+10476,True,Fire,Mild,None,cali,2
+10477,True,Fire,Mild,"Information, Support",BC,2
+10480,True,Fire,Moderate,Water,California,3
+10491,False,None,None,None,Colorado,0
+10493,True,Fire,Moderate,Fire Fighting,Tucson,3
+10494,True,Fire,Mild,Information,California,2
+10495,False,None,None,None,Unknown,0
+10497,True,Fire,Mild,Information,"Tucson, Arizona",2
+10501,True,Fire,Moderate,Evacuation,Chelan,3
+10504,False,None,None,None,West Virginia,0
+10507,True,Fire,Mild,Information,Three Sisters,2
+10509,True,Fire,Moderate,None,California,3
+10510,False,None,None,None,Unknown,0
+10512,True,Fire,Mild,Information,"Wenatchee, WA",2
+10514,True,Fire,Mild,None,Unknown,2
+10526,True,Fire,Mild,None,Columbia River,2
+10528,True,Fire,Mild,None,Northern California,2
+10530,True,Fire,Mild,None,LakeCounty,2
+10531,True,Fire,Mild,None,Oregon,2
+10532,True,Fire,Mild,Fire Fighting,Forest Grove,2
+10538,True,Windstorm,Mild,Insurance,PORTLAND,2
+10539,True,Windstorm,Mild,Insurance,Texas,2
+10542,True,Windstorm,Mild,Inspection,Houston,2
+10547,True,Windstorm,Mild,Insurance,Texas,2
+10549,True,Windstorm,Mild,Insurance,Texas,2
+10556,False,None,None,None,Unknown,0
+10569,False,None,None,None,Unknown,0
+10572,True,Windstorm,Mild,Cleanup,Canada,2
+10577,True,Windstorm,Mild,Insurance,Texas,2
+10579,True,Windstorm,Moderate,Cleanup,"Rhode Island, Warwick",3
+10586,True,Shooting,Moderate,Medical,Narbin city,3
+10594,True,Attack,Moderate,"Medical, Legal",Takeshima,3
+10595,True,Attack,Moderate,"Medical, Support",El Salvador,3
+10597,True,Attack,Moderate,Legal,"Newport, RI",3
+10602,True,Shooting,Moderate,Medical,Richmond,3
+10604,True,Shooting,Moderate,Medical,Richmond,3
+10614,False,None,None,None,Philippines,0
+10617,False,None,None,None,Unknown,0
+10618,True,Shooting,Moderate,Medical,"Auburn Gresham, Chicago, Illinois",3
+10619,True,Attack,Moderate,Medical,Singapore,3
+10624,True,Shooting,Moderate,Medical,SWMO,3
+10633,True,Shooting,Moderate,Medical,Unknown,3
+10634,True,Shooting,Moderate,Medical,Unknown,3
